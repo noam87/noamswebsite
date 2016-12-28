@@ -1,0 +1,22 @@
+title = "Noam's Website About Software"
+baseurl = "http://noamswebsite.com/"
+languageCode = "en-us"
+theme = "blank"
+
+[params]
+  author = "Noam Gagliardi-Rabinovich"
+
+[[menu.about]]
+  url = "/resume.pdf"
+  name = "resume / CV (pdf)"
+  weight = 1
+
+[[menu.about]]
+  name = "GitHub"
+  url = "https://github.com/noam87"
+  weight = 2
+
+[[menu.about]]
+  name = "Personal Blog"
+  url = "https://noamswebsite.wordpress.com"
+  weight = 3
