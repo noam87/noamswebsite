@@ -2,13 +2,13 @@
 
 <div class="row">
   <div class="col-md-8">
-        <main>
-          {{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
-          {{ range $paginator.Pages }}
-            {{ partial "summary.html" . }}
-          {{ end }}
-          {{ partial "pagination.html" . }}
-        </main>
+    <main>
+      {{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
+      {{ range $paginator.Pages }}
+        {{ partial "summary.html" . }}
+      {{ end }}
+      {{ partial "pagination.html" . }}
+    </main>
   </div>
   <div class="col-md-4">
     {{ partial "sidebar.html" . }}

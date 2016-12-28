@@ -13,7 +13,7 @@
 			</div>
 			<div>
 				<ul>
-					{{ range first 5 .Site.Pages }}
+					{{ range first 5 (where .Site.Pages "Type" "post") }}
 					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 					{{ end }}
 				</ul>
