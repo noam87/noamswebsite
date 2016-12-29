@@ -1,8 +1,7 @@
 +++
 date = "2016-12-27T17:06:10-05:00"
-title = "hello"
+title = "Hello World"
 draft = false
-
 +++
 
 Hello world!
@@ -25,6 +24,10 @@ and here is a blockquote
 
 > And here too!
 
-And this is the end of my article.
-And this is the end of my article.
-And this is the end of my article.
+And this is the end of my article.  And this is the end of my article.  And this is the end of my article.
+And now for some math, (oh by the way you can also inline math
+$2+2_3$):
+
+$$2 + 2_3$$
+
+The end!
