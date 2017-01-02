@@ -3,6 +3,7 @@ baseurl = "http://noamswebsite.com/"
 languageCode = "en-us"
 theme = "blank"
 publishDir = "../noamswebsite_out"
+googleAnalytics = "UA-89673307-1"
 
 [[menu.about]]
   url = "/resume.pdf"
@@ -16,7 +17,3 @@ publishDir = "../noamswebsite_out"
   name = "Contact Me"
   url = "https://noam87.wufoo.com/forms/contact-me/"
   weight = 25
-[[menu.about]]
-  name = "Personal Blog"
-  url = "https://noamswebsite.wordpress.com"
-  weight = 30

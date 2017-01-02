@@ -1,7 +1,7 @@
 +++
 date = "2013-04-06T17:14:21-05:00"
 title = "Using The Same bashrc/zshrc Across Computers"
-draft = false
+draft = true
 +++
 
 Here is a simple method I use to share the same `.bashrc` / `.zshrc` /
