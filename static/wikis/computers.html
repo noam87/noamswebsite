@@ -271,6 +271,8 @@ Error message and password prompt
 
 <li>$:/themes/tiddlywiki/vanilla</li>
 
+<li>Always Nest API Results</li>
+
 <li>Contents</li>
 
 <li>sysadmin</li>
@@ -8620,12 +8622,49 @@ This plugin contains tools to help slice up long texts into individual tiddlers.
     }
 }</pre>
 </div>
-<div created="20170101224023062" modified="20170101225519786" tags="" title="Contents">
-<pre>!!! System Administration
+<div created="20170103042059426" modified="20170103042659122" tags="practices" title="Always Nest API Results" type="text/x-markdown">
+<pre>When designing an API, don't do this:
 
-Stuff related to system administration, environment setup, etc.
+    // QUERY: GET /users/search?query=bob
 
-&lt;&lt;list-links &quot;[tag[sysadmin]]&quot;&gt;&gt;</pre>
+    // RESPONSE:
+    [
+      {
+         &quot;first_name&quot;: &quot;Bob&quot;,
+         &quot;last_name&quot;: &quot;Dole&quot;
+      },
+      {
+         &quot;first_name&quot;: &quot;Kevin&quot;,          
+         &quot;last_name&quot;: &quot;Bobson&quot;
+      }
+    ]
+
+Instead, nest your information one level, so that adding attributes is trivial without breaking backwards compatibility:
+
+    {
+      &quot;results&quot;: [
+        {
+          &quot;first_name&quot;: &quot;Bob&quot;,
+          &quot;last_name&quot;: &quot;Dole&quot;
+        },
+        {
+          &quot;first_name&quot;: &quot;Kevin&quot;,
+          &quot;last_name&quot;: &quot;Bobson&quot;
+        }
+      ]
+    }</pre>
+</div>
+<div created="20170101224023062" modified="20170103042728789" tags="" title="Contents">
+<pre>!! System Administration
+
+Stuff related to system administration, environment setup, etc.:
+
+&lt;&lt;list-links &quot;[tag[sysadmin]]&quot;&gt;&gt;
+
+!! Good Practices
+
+&lt;&lt;list-links &quot;[tag[practices]]&quot;&gt;&gt;
+</pre>
 </div>
 <div color="#0000ff" created="20170101232708334" modified="20170101232710088" title="sysadmin">
 <pre></pre>
