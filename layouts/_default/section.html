@@ -4,6 +4,8 @@
   <div class="col-sm-6">
     <h3 class="section-header">Computers</h3>
 
+    Programming, computer science, tutorials, etc.
+
     <ul>
       {{ range .Site.Taxonomies.wikis.computers }}
         <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
@@ -19,6 +21,20 @@
       {{ end }}
     </ul>
 
+  </div>
+</div>
+
+<div class="row">
+  <div class="dol-sm-6">
+    <h3 class="section-header">Data And Machine Learning</h3>
+
+    Everything related to data minig, machine learning, etc.
+
+    <ul>
+      {{ range .Site.Taxonomies.wikis.datascience }}
+        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
   </div>
 </div>
 

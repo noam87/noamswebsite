@@ -2,7 +2,7 @@
 draft = false
 date = "2017-01-04T11:05:23-05:00"
 title = "Machine Learning Resources"
-wikis = ["computers", "machine learning"]
+wikis = ["datascience"]
 +++
 
 | Title                       | Author              | Recommend | Format |
