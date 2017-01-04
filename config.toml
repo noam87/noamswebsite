@@ -5,6 +5,9 @@ theme = "blank"
 publishDir = "../noamswebsite_out"
 googleAnalytics = "UA-89673307-1"
 
+[taxonomies]
+  tag = "tags"
+
 [[menu.about]]
   url = "/resume.pdf"
   name = "Resume / CV (pdf)"
