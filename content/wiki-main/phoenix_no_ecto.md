@@ -2,6 +2,8 @@
 date = "2017-01-04T00:52:25-05:00"
 title = "Separate Ecto From Phoenix In Umbrella App"
 draft = false
+tags = ["phoenix", "elixir", "tutorial"]
+wikis = ["computers"]
 +++
 
 First, create umbrella application:
@@ -118,8 +120,8 @@ This will load environment-specific configs.
       ecto_repos: [Db.Repo]
 
     # Configure phoenix generators
-        config :phoenix, :generators,
-          migration: false
+    config :phoenix, :generators,
+      migration: false
 
 ## Notes
 

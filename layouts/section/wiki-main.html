@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+  <div class="col-sm-6">
+    <h3 class="section-header">Computers</h3>
+
+    <ul>
+      {{ range .Site.Taxonomies.wikis.computers }}
+        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
+
+  </div>
+  <div class="col-sm-6">
+    <h3 class="section-header">Tags</h3>
+    <ul id="all-tags">
+      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+        <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+      {{ end }}
+    </ul>
+
+  </div>
+</div>
+
+
+{{ partial "footer.html" . }}

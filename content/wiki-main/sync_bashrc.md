@@ -2,6 +2,8 @@
 date = "2017-01-04T00:19:02-05:00"
 title = "Using The Same bashrc / zshrc Across Computers"
 draft = false
+wikis = ["computers"]
+tags = ["tutorial", "sysadmin"]
 +++
 
 Here is a simple method I use to share the same `.bashrc` / `.zshrc` /

@@ -8,19 +8,26 @@
 			<div>
 				{{ .Content }}
 			</div>
-			<div>
-				{{ template "_internal/disqus.html" . }}
-			</div>
 		</article>
-	</main>
 
-{{ if .Params.tags }}
-  <strong>Tags::</strong>
-  {{ range $index, $tag := .Params.tags }}
-    {{ if gt $index 0 }},
-    {{ end }}
-    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
-  {{ end }}
-{{ end }}
+    <hr>
+
+    <div>
+      {{ if .Params.tags }}
+        <strong>Tags::</strong>
+        {{ range $index, $tag := .Params.tags }}
+          {{ if gt $index 0 }},
+          {{ end }}
+          <a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+
+    <hr>
+
+    <div>
+      {{ template "_internal/disqus.html" . }}
+    </div>
+	</main>
 
 {{ partial "footer.html" . }}
