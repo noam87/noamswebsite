@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+	<main>
+    <h2>Fiction and Poems</h2>
+
+    <ul>
+      {{ range (where .Site.Pages.ByTitle "Type" "w") }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a> ({{ .Date.Format "2006" }})</li>
+      {{ end }}
+    </ul>
+	</main>
+{{ partial "footer.html" . }}
