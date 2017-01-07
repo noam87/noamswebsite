@@ -1,6 +1,6 @@
 +++
 date = "2017-01-05"
-title = "The Enemy Of You Enemy"
+title = "The Enemy Of Your Enemy"
 draft = false
 wikis = ["random"]
 rtags = ["social"]

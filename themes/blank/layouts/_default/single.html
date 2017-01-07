@@ -1,5 +1,15 @@
 {{ partial "header.html" . }}
-	<main>
+  <small><a href="{{.Site.BaseURL}}/{{.Section}}">back to {{.Section}}</a></small>
+
+  {{if eq .Section "r"}}
+    <main class="written">
+  {{else if eq .Section "w"}}
+    <main class="written">
+  {{else if eq .Section "q"}}
+    <main class="written">
+  {{else}}
+    <main>
+  {{end}}
 		<article>
 			<h1 class="article-title">{{ .Title }}</h1>
       <div class="article-date">
@@ -14,11 +24,22 @@
 
     <div>
       {{ if .Params.tags }}
-        <strong>Tags::</strong>
+        <strong>Tags:</strong>
         {{ range $index, $tag := .Params.tags }}
           {{ if gt $index 0 }},
           {{ end }}
           <a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+
+    <div>
+      {{ if .Params.rtags }}
+        <strong>Tags:</strong>
+        {{ range $index, $rtag := .Params.rtags }}
+          {{ if gt $index 0 }},
+          {{ end }}
+          <a href="{{ "/rtags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
         {{ end }}
       {{ end }}
     </div>

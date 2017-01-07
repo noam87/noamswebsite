@@ -3,7 +3,7 @@ title = "Elixir/Erlang Resources"
 draft = false
 date = "2017-01-04T16:11:51-05:00"
 wikis = ["computers"]
-tags = ["elixir", "erlang", "phoenix", "resource-list"]
+tags = ["elixir", "erlang", "phoenix", "recommendations"]
 +++
 
 ## Learning
@@ -16,7 +16,8 @@ tags = ["elixir", "erlang", "phoenix", "resource-list"]
 
 ## Memory / GC
 
-| Title                                    | Notes  |
+| Title | Notes  |
+|-------|--------|
 | [Erlang Scheduler Details and Why It Matters](https://hamidreza-s.github.io/erlang/scheduling/real-time/preemptive/migration/2016/02/09/erlang-scheduler-details.html) | |
 | [Erlang Garbage Collection Details and Why It Matters](https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html) | Simple introduction to Erlang GC concepts. Start here. |
 | [Erlang 19.0 Garbage Collector](https://www.erlang-solutions.com/blog/erlang-19-0-garbage-collector.html) | |
@@ -25,6 +26,7 @@ tags = ["elixir", "erlang", "phoenix", "resource-list"]
 
 ## Concurrency
 
-| Title                                    | Notes  |
-| [How Erlang does scheduling](http://jlouisramblings.blogspot.ca/2013/01/how-erlang-does-scheduling.html?m=1) | |
-| [Characterizing the Scalability of Erlang VM on Many-core Processors](http://kth.diva-portal.org/smash/record.jsf?searchId=2&pid=diva2%3A392243&dswid=-8162) (pdf) | |
+| Title | Notes  |
+|-------|--------|
+|[How Erlang does scheduling](http://jlouisramblings.blogspot.ca/2013/01/how-erlang-does-scheduling.html?m=1) | |
+|[Characterizing the Scalability of Erlang VM on Many-core Processors](http://kth.diva-portal.org/smash/record.jsf?searchId=2&pid=diva2%3A392243&dswid=-8162) (pdf) | |

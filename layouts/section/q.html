@@ -1,13 +1,9 @@
 {{ partial "header.html" . }}
 	<main>
-    <h2>Random Stuff</h2>
-
-    <p>
-      Random snippets about anything.
-    </p>
+    <h2>Quotes</h2>
 
     <ul>
-      {{ range (where .Site.Pages "Type" "r") }}
+      {{ range (where .Site.Pages.ByTitle "Type" "q") }}
         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>

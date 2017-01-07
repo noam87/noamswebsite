@@ -3,7 +3,7 @@ date = "2017-01-04T14:41:18-05:00"
 title = "React Resources"
 draft = false
 wikis = ["computers"]
-tags = ["javascript", "react", "resource-list"]
+tags = ["javascript", "react", "recommendations"]
 +++
 
 | Title | Format | Notes |

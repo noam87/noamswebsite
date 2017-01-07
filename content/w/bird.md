@@ -4,7 +4,7 @@ date = "2009-01-01"
 title = "A Bird By The Window"
 +++
 
-```
+<pre>
 acu riousblue li ttlewing
 i sawta pingon mywindow
 like asif onstrings sheelin gered
@@ -36,4 +36,4 @@ and freedom
 and freedom is a
 freedom is the
 freedom is to
-```
+</pre>
