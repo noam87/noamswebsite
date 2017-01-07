@@ -2,9 +2,10 @@
 title = "I Wouldn't Mind Floating Downstream"
 draft = false
 date = "2009-01-05"
+wikis = ["writing"]
 +++
 
-```
+<pre>
 "I would not mind floating downstream;
 End up among the fish and whales.
 
@@ -33,4 +34,4 @@ As free as logic in a dream."
 Again you sipped, and leaned, and laughed,
 Then played a moment with your scarf;
 And I suspect you did agree.
-```
+</pre>

@@ -2,6 +2,7 @@
 date = "2016-01-05"
 title = "A Pair Of Dirty Shoes"
 draft = false
+wikis = ["writing"]
 +++
 
 A second pair stacked on top. Dirty socks. Dirty shirts. Piles of them.  That

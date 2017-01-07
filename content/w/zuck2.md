@@ -2,6 +2,7 @@
 date = "2016-12-05"
 title = "My Dearest Zuckerberg #2"
 draft = false
+wikis = ["writing"]
 +++
 
 My Dearest Zuckerberg,

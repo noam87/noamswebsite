@@ -2,7 +2,7 @@
 date = "2015-01-05"
 title = "Stones"
 draft = false
-wikis = ["random"]
+wikis = ["random", "writing"]
 rtags = ["cognitive"]
 +++
 

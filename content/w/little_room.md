@@ -2,6 +2,7 @@
 draft = false
 date = "2012-01-05"
 title = "Little Room"
+wikis = ["writing"]
 +++
 
 A set of boots halt just behind Little Room door, mark a pensive hollow in the

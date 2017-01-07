@@ -2,6 +2,7 @@
 draft = false
 date = "2009-01-01"
 title = "A Bird By The Window"
+wikis = ["writing"]
 +++
 
 <pre>

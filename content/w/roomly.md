@@ -2,9 +2,10 @@
 date = "2008-01-05"
 title = "Roomly I Dejected Your Enter"
 draft = false
+wikis = ["writing"]
 +++
 
-```
+<pre>
 Roomly I dejected your enter.
 We bedded on your sit;
 Did you kiss to want me?
@@ -20,4 +21,4 @@ And every time you stop, my heart looks at me.
 
 Dear love, this me for you will be the death of God.
 So leave, don't ever please me.
-```
+</pre>

@@ -1,5 +1,18 @@
 {{ partial "header.html" . }}
-  <small><a href="{{.Site.BaseURL}}/{{.Section}}">back to {{.Section}}</a></small>
+  <div>
+    {{ if .Params.wikis }}
+      <small>
+      <strong>Back to wiki:</strong>
+      {{ range $index, $wiki := .Params.wikis }}
+        {{ if gt $index 0 }},
+        {{ end }}
+        <a href="{{ "/wikis/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+      {{ end }}
+      </small>
+    {{else}}
+      <small><a href="{{.Site.BaseURL}}/{{.Section}}">back to {{.Section}}</a></small>
+    {{ end }}
+  </div>
 
   {{if eq .Section "r"}}
     <main class="written">

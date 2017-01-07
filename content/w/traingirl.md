@@ -2,6 +2,7 @@
 date = "2012-01-05"
 title = "Girl On A Train Asks About The Book In My Bag"
 draft = false
+wikis = ["writing"]
 +++
 
 "What's that book you're reading?" she asks.

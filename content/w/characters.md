@@ -2,6 +2,7 @@
 draft = false
 date = "2008-01-05"
 title = "Characters"
+wikis = ["writing"]
 +++
 
 They tear up the room, they jest and joke around, and I'm that much closer to
