@@ -50,7 +50,7 @@ tree in the distance at all. I looked around me and tapped one of the sweeping
 men on the shoulder.  "Why do you sweep?" I asked.
 
 For a moment he looked at me as if I was strange, then he paused, and a look of
-worry came on his face, and it was as if he'd not even realized he had been
-sweeping all this time, like the mere question had snapped him out of a trance.
+worry came on his face -- it was as if he'd not even realized he had been
+sweeping all this time! The mere question had snapped him out of a trance.
 
 Then he was struck by a notion.
