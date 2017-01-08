@@ -95,3 +95,7 @@ blockquote {
   color: white;
   text-align: center;
 }
+
+.all-tags li {
+  display: inline;
+}

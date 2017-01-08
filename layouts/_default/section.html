@@ -15,7 +15,7 @@
   </div>
   <div class="col-sm-6">
     <h3 class="section-header">Tags</h3>
-    <ul id="all-tags">
+    <ul class="all-tags">
       {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
         <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
       {{ end }}
