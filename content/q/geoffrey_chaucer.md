@@ -13,6 +13,9 @@ rtags = ["chaucer"]
 > By him shal othere men corrected be.
 > </pre>
 
+"He who isn't warned by other men's example, will himself become an example for
+other men."
+
 
 ### Truth
 
