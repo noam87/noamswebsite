@@ -4,6 +4,7 @@ title = "Sweep"
 draft = false
 wikis = ["random", "writing"]
 rtags = ["social"]
+tags = ["featured"]
 +++
 
 I was on my regular afternoon bike ride when I noticed a crowd of people

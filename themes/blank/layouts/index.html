@@ -17,8 +17,8 @@
   <div class="col-sm-6">
     <h3 class="section-header">Articles</h3>
     <ul>
-      {{ range (where .Site.Pages "Type" "post") }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ range .Site.Taxonomies.tags.featured }}
+        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
       {{ end }}
     </ul>
   </div>
@@ -36,7 +36,7 @@
       <li>
         <a href="/wiki-main">Main Wiki:</a>
           Practical notes and tutorials on programming, sysadmin, languages, etc.
-          <small><strong>(last updated 2017-01-06)</strong></small>
+          <small><strong>(last updated 2017-01-08)</strong></small>
       </li>
       <li>
         <a href="/wikis/ad_networks.html">Ad Networks:</a>
@@ -113,7 +113,7 @@
       <li>
         <a href="/q">Quotes:</a>
           quotes I like.
-          <small><strong>(last updated 2017-01-07)</strong></small>
+          <small><strong>(last updated 2017-01-08)</strong></small>
       </li>
       <li>
         <a href="https://twitter.com/87noam" target="blank">My Twitter</a>
