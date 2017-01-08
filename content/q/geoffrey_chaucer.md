@@ -6,21 +6,6 @@ wikis = ["quotes"]
 rtags = ["chaucer"]
 +++
 
-## Death
-
-> <pre>
-> And certeinly, a man hath moost honour
-> To dyen in his excellence and flour,
-> Whan he is siker of his goode name,
-> Thanne hath he doon his freend ne hym no shame.
-> And gladder oghte his freend been of his deeth,
-> Whan with honour up yolden in his breeth,
-> Than whan his name apalled is for age;
-> For al forgeten is his vassellage.
-> Thanne is it best as for a worthy fame,
-> To dyen whan that he is best of name.
-> </pre>
-
 ## Advice
 
 > <pre>
@@ -28,7 +13,6 @@ rtags = ["chaucer"]
 > By him shal othere men corrected be.
 > </pre>
 
----
 
 ### Truth
 
@@ -87,4 +71,18 @@ rtags = ["chaucer"]
 > Of my poverte namoore ye me repreve.
 > </pre>
 
+## Death
+
+> <pre>
+> And certeinly, a man hath moost honour
+> To dyen in his excellence and flour,
+> Whan he is siker of his goode name,
+> Thanne hath he doon his freend ne hym no shame.
+> And gladder oghte his freend been of his deeth,
+> Whan with honour up yolden in his breeth,
+> Than whan his name apalled is for age;
+> For al forgeten is his vassellage.
+> Thanne is it best as for a worthy fame,
+> To dyen whan that he is best of name.
+> </pre>
 
