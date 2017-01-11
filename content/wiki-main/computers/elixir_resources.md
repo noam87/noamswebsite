@@ -3,7 +3,7 @@ title = "Elixir/Erlang Resources"
 draft = false
 date = "2017-01-04T16:11:51-05:00"
 wikis = ["computers"]
-tags = ["elixir", "erlang", "phoenix", "recommendations", "gx"]
+tags = ["elixir", "erlang", "phoenix", "recommendations", "gc"]
 +++
 
 ## Learning
@@ -23,7 +23,7 @@ For articles on GC / compilers in general see [compilers](/wiki-main/computers/c
 | [Erlang Scheduler Details and Why It Matters](https://hamidreza-s.github.io/erlang/scheduling/real-time/preemptive/migration/2016/02/09/erlang-scheduler-details.html) | |
 | [Erlang Garbage Collection Details and Why It Matters](https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html) | Simple introduction to Erlang GC concepts. Start here. |
 | [Erlang 19.0 Garbage Collector](https://www.erlang-solutions.com/blog/erlang-19-0-garbage-collector.html) | |
-| [Erlang Efficiency Guide](http://erlang.org/doc/efficiency_guide/introduction.html) | |
+| [Erlang Efficiency Guide](http://erlang.org/doc/efficiency\_guide/introduction.html) | |
 | [Erlang Binary Garbage Collection: A love/hate relationship](http://blog.bugsense.com/post/74179424069/erlang-binary-garbage-collection-a-lovehate) | Some findings on the shared heap GC. |
 
 ## Concurrency
