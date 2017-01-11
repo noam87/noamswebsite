@@ -3,7 +3,7 @@ title = "Elixir/Erlang Resources"
 draft = false
 date = "2017-01-04T16:11:51-05:00"
 wikis = ["computers"]
-tags = ["elixir", "erlang", "phoenix", "recommendations"]
+tags = ["elixir", "erlang", "phoenix", "recommendations", "gx"]
 +++
 
 ## Learning
@@ -15,6 +15,8 @@ tags = ["elixir", "erlang", "phoenix", "recommendations"]
 | [Erlang In Anger](https://www.erlang-in-anger.com/) | Great guide for when stuff goes bad. |
 
 ## Memory / GC
+
+For articles on GC / compilers in general see [compilers](/wiki-main/computers/compilers) section.
 
 | Title | Notes  |
 |-------|--------|
