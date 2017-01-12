@@ -32,3 +32,10 @@ For articles on GC / compilers in general see [compilers](/wiki-main/computers/c
 |-------|--------|
 |[How Erlang does scheduling](http://jlouisramblings.blogspot.ca/2013/01/how-erlang-does-scheduling.html?m=1) | |
 |[Characterizing the Scalability of Erlang VM on Many-core Processors](http://kth.diva-portal.org/smash/record.jsf?searchId=2&pid=diva2%3A392243&dswid=-8162) (pdf) | |
+
+## Performance
+
+| Title                                    | Notes  |
+|------------------------------------------|--------|
+| [Elixir RAM And The Template Of Doom](http://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html) | |
+| [Elixir and IO Lists, Part 1: Building Output Efficiently](https://www.bignerdranch.com/blog/elixir-and-io-lists-part-1-building-output-efficiently/) | |
