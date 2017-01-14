@@ -4,6 +4,7 @@ title = "Words"
 draft = false
 wikis = ["writing"]
 +++
+
 <pre>
     Words don't listen
      Words don't talk
