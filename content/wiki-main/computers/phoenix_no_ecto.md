@@ -126,7 +126,7 @@ This will load environment-specific configs.
 ## Notes
 
 * From now on, when running `mix phoenix.gen.html` or `mix phoenix.gen.json`,
-pass the `--no-model` option.
+pass the `--no-model` option. (**update:** see question below.)
 
 * Since app is umbrella app now, remember to `cd` into phoenix app directory
 before running generators, or files will be generated at umbrella's top level.
@@ -136,3 +136,9 @@ before running generators, or files will be generated at umbrella's top level.
 * Is it there a way to make it so that there's no need for `--no-model` option
 every time?
 
+```
+config :phoenix, :generators, model: false
+```
+
+Answer provided by the man himself :)
+https://elixirforum.com/t/should-we-separate-ecto-from-phoenix-in-umbrella-app/1515/22
