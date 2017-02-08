@@ -3,6 +3,7 @@ title = "I Wouldn't Mind Floating Downstream"
 draft = false
 date = "2009-01-05"
 wikis = ["writing"]
+tags = ["featured"]
 +++
 
 <pre>
