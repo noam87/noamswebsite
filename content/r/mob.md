@@ -2,7 +2,8 @@
 draft = false
 date = "2017-02-07"
 title = "Mob Authority"
-wikis = ["social"]
+wikis = ["random"]
+rtags = ["social"]
 +++
 
 I'm baffled by supposed anti-authoritarians who revel in the chaos of mobs,
