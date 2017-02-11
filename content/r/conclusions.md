@@ -6,29 +6,28 @@ wikis = ["random"]
 rtags = ["cognitive"]
 +++
 
-Your **beliefs** are axiomatic. They are at the core of how you interpret the
-world around you and your understanding of what is "true". But just as with
-mathematical axioms, beliefs are arbitrary -- they are not supported by facts
-and logic, but rather color our interpretation of facts. Whether you believe
-"Freedom is desirable" or "Subjugation is justified" in the end comes down to
-choosing to believe so (Even if the first is further derived from the belief
-that "Suffering in others is bad", that in itself must be arbitrarily asserted,
-and so on).
+Your **beliefs** are axiomatic. They lie at the core of your understanding of
+what is "true". And just like mathematical axioms, beliefs are arbitrary -- they
+are not supported by facts and logic, but rather color our interpretation of
+facts themselves. Whether you believe "Freedom is desirable" or "Subjugation is
+justified" in the end it comes down to choosing to believe so. (Even if the
+first is further derived from the belief that "Suffering in others is bad", that
+in itself must be arbitrarily asserted, and so on.)
 
-The **conclusions** you form on the other hand are not arbitrary. As the name
-implies, they represent some terminal point at the end of a chain of logical
-assertions, ultimately stemming from your beliefs, the quality of your logic,
-and whatever information is available to you at the time.
+**Conclusions** on the other hand are not arbitrary. They are some terminal
+point at the end of a chain of logical assertions, ultimately stemming from your
+beliefs, the quality of your logic, and whatever information is available to you
+at the time.
 
 And it goes without saying: whatever information *is* available to you is
-incomplete or incorrect, make no mistake.
+incomplete or incorrect.
 
 ---
 
 Sometimes your beliefs can feel like conclusions: you may convince yourself you
 have arrived at some belief out of careful deliberation, when in reality you've
-worked the conclusion backwards, merely stringing together facts that support
-your chosen belief.
+worked the conclusion backwards, merely stringing together cherrypicked facts
+that support your chosen belief.
 
 ---
 
@@ -67,9 +66,9 @@ suspend all belief and assume you possess all relevant information, even then
 all you can aspire to is that your conclusions be one of many equally valid
 ways of coloring "Truth".
 
-The best way to go about, you don't want to go completely mad, is to pick a few,
-and be mindful that each one of these is just one more way of further enriching
-the limited flavor of reality that was assigned to you.
+The best way to go about, if you don't want to go completely mad, is to pick a
+few, and remember that each is just one more way of further enriching the
+limited flavor of reality that was assigned to you.
 
 ... I think.
 
