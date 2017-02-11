@@ -3,7 +3,7 @@ draft = false
 date = "2017-02-07"
 title = "Mob Authority"
 wikis = ["random"]
-rtags = ["social"]
+rtags = ["social", "individuality"]
 +++
 
 There's a funny contradiction with supposed anti-authoritarians who revel in the
