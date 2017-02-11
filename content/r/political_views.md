@@ -19,7 +19,7 @@ guess I'm something like a
 [libertarian socialist](https://en.wikipedia.org/wiki/Libertarian_socialism),
 though I certainly part ways here when it comes to their notion that abolishing
 the state altogether is somehow desirable (even if it *were* a possibility that
-exists anywhere outside the pipe-dreams of anarchists).
+exists anywhere outside the pipe-dreams of the anarchist's fancy).
 
 The political theorists who have influenced me most are
 [John Stuart Mill](/q/john_stuart_mill/),
