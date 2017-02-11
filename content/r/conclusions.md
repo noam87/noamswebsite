@@ -10,7 +10,7 @@ A **belief** is axiomatic. It's what one holds to be true. They are at the core
 of our interpretation of the world around us, and our understanding of what is
 "true".
 
-At the same time, as with mathematical axioms, beliefs are by necessity
+As with mathematical axioms, beliefs are by necessity
 arbitrary. Whether one asserts with certainty "Freedom is desirable" or
 "Subjugation is justified" in the end comes down to choosing to believe so (Even
 if the first is further derived from the belief that "Suffering in others is
@@ -58,7 +58,7 @@ Can such a formulation be trusted? It's turtles all the way down.)
 One's beliefs and conclusions, even if "logically" formulated, at any given
 time, even if one can suspend all belief and assume to possess all relevant
 information, even then all we can aspire for is that our cherished conclusions
-be, at best, one many equally valid readings of the "Truth".
+be, at best, one of many equally valid readings of the "Truth".
 
 The best way to go about, if one desires not to go completely mad, is to pick
 one, or a few, and be mindful that each one of these is simply one more way of
@@ -72,7 +72,7 @@ further enriching our flavor of reality.
 
 <ol>
   <li>
-    At the same, thinking too much about the philosophical and existential
+    At the same time, thinking too much about the philosophical and existential
     implications of [mathematical
     formalism](https://en.wikipedia.org/wiki/Formalism_(philosophy_of_mathematics))
     is bound to drive one absolutely mad. *Caveat emptor*!
