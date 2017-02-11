@@ -6,13 +6,11 @@ wikis = ["random"]
 rtags = ["social", "hannaharendt", "jsmill", "individuality"]
 +++
 
-> This is an attempt to succinctly state my political views.
-> My beliefs will be inherently arbitrary, and my conclusions inevitably based
+> A quick attempt to succinctly state my political views for reference.
+> My [beliefs](/r/conclusions/) will be inherently arbitrary, and my conclusions inevitably based
 > on incomplete or false knowledge -- however we are all political beings, and
 > should at the very least be held responsible to understand *ourselves* as
 > such.
-
-> What I mean by "belief" is explained [here](/r/conclusions/).
 
 If I was pressed to categorize myself as a subscriber to some political creed, I
 guess I'm something like a
