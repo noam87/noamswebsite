@@ -156,7 +156,24 @@ herself.
 
 ## The Family Man As The Great Criminal Of The Century
 
-> We had been so accustomed to admire or gently ridicule the family man's kind concern and earnest concentration on the welfare of his family, his solemn determination to make life easy for his wife and children, that we hardly noticed how the devoted *paterfamilias*, worried about nothing so much as his security, was transformed under the pressure of the chaotic economic conditions of our time into an involuntary adventurer, who for all his industry and care could never be certain what the next day would bring. [...] It became clear that for the sake of his pension, his life insurance, the security of his wife and children, such a man was ready to sacrifice his beliefs, his honor, and his human dignity.  It needed only the Satanic genius of Himmler to discover that after such degradation he was entirely prepared to do anything when the ante was raised and the bare existence of his family was threatened.  The only condition he put was that he should be fully exempted from responsibility for his acts.  Thus that very person, the average German, whom the Nazis notwithstanding years of the most furious propaganda could not induce to kill a Jew on his own account (not even when they made it quite clear that such a murder would go unpunished), now serves the machine of destruction without opposition.
+> We had been so accustomed to admire or gently ridicule the family man's kind
+> concern and earnest concentration on the welfare of his family, his solemn
+> determination to make life easy for his wife and children, that we hardly
+> noticed how the devoted *paterfamilias*, worried about nothing so much as his
+> security, was transformed under the pressure of the chaotic economic
+> conditions of our time into an involuntary adventurer, who for all his
+> industry and care could never be certain what the next day would bring. [...]
+> It became clear that for the sake of his pension, his life insurance, the
+> security of his wife and children, such a man was ready to sacrifice his
+> beliefs, his honor, and his human dignity.  It needed only the Satanic genius
+> of Himmler to discover that after such degradation he was entirely prepared
+> to do anything when the ante was raised and the bare existence of his family
+> was threatened.  The only condition he put was that he should be fully
+> exempted from responsibility for his acts.  Thus that very person, the
+> average German, whom the Nazis notwithstanding years of the most furious
+> propaganda could not induce to kill a Jew on his own account (not even when
+> they made it quite clear that such a murder would go unpunished), now serves
+> the machine of destruction without opposition.
 
 ---
 
