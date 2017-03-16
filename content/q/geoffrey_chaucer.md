@@ -89,3 +89,11 @@ other men."
 > To dyen whan that he is best of name.
 > </pre>
 
+## Deception And Flattery
+
+> <pre>
+> Allas, ye lordes, many a fals flatour
+> Is in youre courtes, and many a losengeour,
+> That plesen yow wel moore, by my feith,
+> Than he that soothfastnesse unto yow seith.
+> </pre>
