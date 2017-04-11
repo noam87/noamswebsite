@@ -3,7 +3,7 @@ draft = false
 date = "2017-01-18"
 title = "Startup Resources"
 wikis = ["career"]
-tags = ["startups"]
+tags = ["startups", "recommendations"]
 +++
 
 | Title                       | Format |
