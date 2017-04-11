@@ -75,7 +75,9 @@ final "desired state"; there is no end-goal. We accept that a) the system is
 constantly in flux, and b) its individual members are not only fallible, but
 have variable and often conflicting interests.
 
-We're not bothering with with specific moral concerns here; those (the "fitness function") will change over time. So we are concerned with the "fitness" of the group as a whole
+We're not bothering with with specific moral concerns here; those (the "fitness
+function") will change over time. So we are concerned with the "fitness" of the
+group as a whole
 
 A heterogeneous society, by definition, can no more achieve a state of
 "perfection" than in nature a species can be said to have "completed its

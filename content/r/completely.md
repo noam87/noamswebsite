@@ -1,10 +1,8 @@
 +++
 draft = false
-date = "2017-03-05"
-title = "Globalization"
+date = "2017-01-05"
+title = "Completely"
 wikis = ["random"]
-rtags = ["social"]
 +++
 
-Globalization is a rich gated community demolishing your neighborhood, then
-installing cheap rentals and hiring you as a maid to help you out.
+When I die, I hope it's completely.

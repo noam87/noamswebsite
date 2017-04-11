@@ -6,6 +6,6 @@ wikis = ["random"]
 rtags = ["social", "individuality"]
 +++
 
-There's a funny contradiction with supposed anti-authoritarians who revel in the
+There's a funny contradiction with anti-authoritarians who revel in the
 chaos of mobs: what more intractably illegitimate form of authority exists
 than that of a mob?
