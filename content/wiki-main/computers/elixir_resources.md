@@ -39,3 +39,9 @@ For articles on GC / compilers in general see [compilers](/wiki-main/computers/c
 |------------------------------------------|--------|
 | [Elixir RAM And The Template Of Doom](http://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html) | |
 | [Elixir and IO Lists, Part 1: Building Output Efficiently](https://www.bignerdranch.com/blog/elixir-and-io-lists-part-1-building-output-efficiently/) | |
+
+## Performance Tips
+
+Don't have processes the many other processes depend on. For example, a
+single-process cache that many others call to. This will be a bottleneck
+because you'll always have to wait for that process's turn from the scheduler.
