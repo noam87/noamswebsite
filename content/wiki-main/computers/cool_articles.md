@@ -18,3 +18,4 @@ tags = ["recommendations", "c"]
 | Title | Notes |
 |-------|-------|
 | Efficient Data Structures for Tamper-Evident Logging ([PDF](http://people.cs.vt.edu/danfeng/courses/cs6204/sp10-papers/crosby.pdf)) | Youtube talk [here](https://youtu.be/G0tkCxq9OuE) |
+| [Cryptographic Data Structures](https://blog.bren2010.io/2015/04/07/data-structures.html) | |
