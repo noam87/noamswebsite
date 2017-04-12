@@ -3,7 +3,8 @@ title = "Elixir/Erlang Resources"
 draft = false
 date = "2017-01-04T16:11:51-05:00"
 wikis = ["computers"]
-tags = ["elixir", "erlang", "phoenix", "recommendations", "gc"]
+tags = ["elixir", "erlang", "phoenix", "recommendations", "garbageCollection",
+        "compilers", "concurrency"]
 +++
 
 ## Learning

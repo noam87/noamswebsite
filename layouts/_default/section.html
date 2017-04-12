@@ -3,36 +3,51 @@
 <div class="row">
   <div class="col-sm-6">
     <h3 class="section-header">Computers</h3>
-
     Programming, computer science, tutorials, etc.
-
     <ul>
       {{ range .Site.Taxonomies.wikis.computers }}
         <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
       {{ end }}
     </ul>
-
   </div>
   <div class="col-sm-6">
-    <h3 class="section-header">Tags</h3>
-    <ul class="all-tags">
-      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-        <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+    <h3 class="section-header">Math And Data</h3>
+    More theoretical / mathematical stuff (math, ml, cs).
+    <ul>
+      {{ range .Site.Taxonomies.wikis.math }}
+        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
       {{ end }}
     </ul>
-
   </div>
 </div>
 
 <div class="row">
   <div class="col-sm-6">
-    <h3 class="section-header">Data Science</h3>
-
-    Everything related to data mining, machine learning, etc.
-
+    <h3 class="section-header">Careerisms</h3>
+    Stuff related to work, self-employment, startups, etc.
     <ul>
-      {{ range .Site.Taxonomies.wikis.datascience }}
+      {{ range .Site.Taxonomies.wikis.career }}
         <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="col-sm-6">
+    <h3 class="section-header">Science</h3>
+    Notes / lectures etc. about natural sciences.
+    <ul>
+      {{ range .Site.Taxonomies.wikis.science }}
+        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-12">
+    <h3 class="section-header">Tags</h3>
+    <ul class="all-tags">
+      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+        <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
       {{ end }}
     </ul>
   </div>
