@@ -2,7 +2,7 @@
 date = "2013-04-16"
 title = "Rice's Theorem"
 draft = false
-wikis = ["computers", "math"]
+wikis = ["computers", "cs"]
 tags = ["computation"]
 +++
 

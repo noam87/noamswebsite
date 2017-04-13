@@ -2,7 +2,7 @@
 date = "2013-10-05"
 title = "Amdahl's Law"
 draft = false
-wikis = ["computers", "math"]
+wikis = ["computers", "cs"]
 tags = ["concurrency", "featured"]
 +++
 
