@@ -307,8 +307,9 @@ network in which all pages link to all pages, and the user is equally likely to
 click any given link (with likelihood $\frac{1-\alpha}{n}$), while $S$ is
 dampened by a factor of $\alpha$.
 
-> Google uses a damping factor of 0.85. For more on this, I found [this paper](/eigenpaper).
-
+> Google uses a damping factor of 0.85. For more on this, I found [this
+> paper](/eigenpaper).
+>
 > **tl;dr:** the second eigenvalue of a Google matrix is $|\lambda\_2| = \alpha
 > \le |\lambda\_1| = 1 $, and the rate of convergence of the power iteration is
 > given by $\frac{|\lambda\_2|}{|\lambda\_1|} = \alpha$. So higher values of
