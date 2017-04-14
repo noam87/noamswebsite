@@ -7,8 +7,9 @@ rtags = []
 tags = ["featured"]
 +++
 
-Sumebody submitted to Hacker News this thing where the only rule is "You can't
-use the letter 'e'."
+Sumebody submitted to Hacker News [this
+thing](https://motherboard.vice.com/en_us/article/its-like-tweeting-but-you-cant-use-the-letter-e)
+where the only rule is "You can't use the letter 'e'."
 
 ```
 On may writ lik this.
