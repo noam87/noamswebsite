@@ -17,8 +17,8 @@ The only way to escape this would be to eliminate the desire
 or means of domination in those who possess them... but here we reach an
 intractable contradiction: because to do so would require the exertion of power
 by one group on another (that is, those who seek to topple power must dominate
-those who seek it, and collude to retain the power to do so indefinitely...  but
-this dynamic is itself hierarchical!)
+those who seek that power, and further they would have to collude to retain the
+power to do so indefinitely...  but this dynamic is itself hierarchical!)
 
 The optimal solution is therefore to side with a preferred hierarchy. This is
 after all what a representative democracy is: to select one\'s masters.
