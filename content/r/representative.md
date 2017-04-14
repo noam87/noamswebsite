@@ -4,6 +4,7 @@ date = "2016-04-14"
 title = "Representative Democracies Are An Inevitable Optimum"
 wikis = ["random"]
 rtags = ["social"]
+tags = ["featured"]
 +++
 
 The existence of power hierarchies is inevitable because of the existence of the

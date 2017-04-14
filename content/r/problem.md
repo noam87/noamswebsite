@@ -4,6 +4,7 @@ date = "2016-04-14"
 title = "The World's Dumbest Hardest Porblem"
 wikis = ["random", "games"]
 rtags = []
+tags = ["featured"]
 +++
 
 Sumebody submitted to Hacker News this thing where the only rule is "You can't
@@ -19,11 +20,14 @@ Or
 You can simply pick words without it.
 ```
 
-Here's an nteresting puzzle:
+Here's an interesting pproblem:
 
 One can leave out one letter, "e", then another, then another... and measure at what rate does
 understandability decrease for people (until eventually it's complete
-gibberish). Also, given a large enough audience, one could try different
+gibberish (The threshold might be higher than you think: in written Hebrew,
+for example, vowels are almost never used; and even in completely ambiguous
+cases the correct word is deduced from its context by the reader)).
+Also, given a large enough audience, one could try different
 combinations of letter-removal order and distribute those randomly, and measure the
 same... the question being:
 
@@ -40,9 +44,11 @@ for the shortest subsets? -- etc. etc.)
 This would be utterly useless and I have no idea how it could be done.
 
 The thing is, the hardest part of solving this puzzle, if one were to try, is
-not designing the experiment and writing the code, but figuring out how the hell
+not designing the experiment and writing the code, but executing it at
+all! -- That is: figuring out how the hell
 to convince a massive audience large enough to collect the significant data to
-subject themselves to this experiment in the first place (or trying to design an
+subject themselves to this experiment in the first place (or, alternatively,
+trying to design an
 AI that could be subjected to it -- and evolve the AIs themselves until they
 excel at deducing unintelligible text -- Would the results be the same for
 people and AIs?)...
