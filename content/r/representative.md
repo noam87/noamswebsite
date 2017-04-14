@@ -21,16 +21,21 @@ those who seek that power, and further they would have to collude to retain the
 power to do so indefinitely...  but this dynamic is itself hierarchical!)
 
 The optimal solution is therefore to side with a preferred hierarchy. This is
-after all what a representative democracy is: to select one\'s masters.
+after all what a representative democracy is: to select one's masters.
 
 Note however that for this strategy to succeed, those at the bottom of the
 hierarchy, if they are smart, must at all times mind a singular goal: To ensure
 that their masters do not cooperate, and to ensure that they exist in a
 completely fragmented state, so that if at any time one of the masters sets in
-his mind to not play by the selection rules and dominate completely, the other
-masters all use their power individually to counteract this attempt; because
-their highest possible ambition is to ensure that they are selected on the next
-round.
+their mind to not play by the selection rules and dominate completely, the other
+masters must each, out of pure self-interest, counteract this attempt at
+singular domination, or they risk losing their power altogether, because their
+highest achievable ambition within this dynamic is to ensure that they are
+selected on the next round. (Taken to an extreme: the only non-genocidal
+solution to the existence of psychopaths is to engineer a society that
+benefits from their selfishness -- one such solution is to pit them
+against *each other* in a competition whose rules are such that its
+side-effects are beneficial to the group as a whole.)
 
 Ironically, here the collective yields more power than they would in a
 non-hierarchical dynamic: This is how peasants keep their masters hostage.
