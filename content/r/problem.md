@@ -6,7 +6,7 @@ wikis = ["random", "games"]
 rtags = []
 +++
 
-Sumebody submitted to Hacker New this thing where the only rule is "You can't
+Sumebody submitted to Hacker News this thing where the only rule is "You can't
 use the letter 'e'."
 
 ```
@@ -21,10 +21,10 @@ You can simply pick words without it.
 
 Here's an nteresting puzzle:
 
-One can leave out one letter, "e", then another, and measure at what rate does
+One can leave out one letter, "e", then another, then another... and measure at what rate does
 understandability decrease for people (until eventually it's complete
 gibberish). Also, given a large enough audience, one could try different
-combinations of letter order and distribute those randomly, and measure the
+combinations of letter-removal order and distribute those randomly, and measure the
 same... the question being:
 
 * Which letters are the most vital to understanding written English? or
