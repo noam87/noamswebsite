@@ -6,10 +6,13 @@ wikis = ["random"]
 rtags = ["social"]
 +++
 
-The existence of power-hierarchies is inevitable because of the existence of the
+The existence of power hierarchies is inevitable because of the existence of the
 will to power. This is not a moral statement, but an empirical one. However hard
-one may work at toppling power structures, and even if one is successful, new
-ones will emerge. The only way to escape this would be to eliminate the desire
+a collective may work at toppling power structures, and even if it is successful
+in doing so, new power hierarchies
+*will* emerge, because there will *always* be individuals who will seek to place
+themselves at the top.
+The only way to escape this would be to eliminate the desire
 or means of domination in those who possess them... but here we reach an
 intractable contradiction: because to do so would require the exertion on power
 by one group on another (that is, those who seek to topple power must dominate
