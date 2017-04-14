@@ -24,9 +24,10 @@ The optimal solution is therefore to side with a preferred hierarchy. This is
 after all what a representative democracy is: to select one's masters.
 
 Note however that for this strategy to succeed, those at the bottom of the
-hierarchy, if they are smart, must at all times mind a singular goal: To ensure
-that their masters do not cooperate, and to ensure that they exist in a
-completely fragmented state, so that if at any time one of the masters sets in
+hierarchy, if they are smart, must at all times mind a singular goal: **To ensure
+that their masters do not cooperate beyond a threshold,**
+and to ensure that they exist in a
+fragmented state, so that if at any time one of the masters sets in
 their mind to not play by the selection rules and dominate completely, the other
 masters must each, out of pure self-interest, counteract this attempt at
 singular domination, or they risk losing their power altogether, because their
