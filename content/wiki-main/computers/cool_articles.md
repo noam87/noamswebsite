@@ -36,5 +36,6 @@ GC.
 | Title | Format | Notes |
 |-------|--------|-------|
 | Embedded Systems: Introduction To ARM Cortex-M Microcontrollers (5<sup>th</sup> Ed.) | [BOOK](http://a.co/03pd6u0) | |
-| Computer Systems: A Programming Perspective, (2<sup>nd</sup> Ed.) | [BOOK](http://a.co/7W4IMFZ) | |
+| Computer Systems: A Programming Perspective, (2<sup>nd</sup> Ed.) | [BOOK](http://a.co/7W4IMFZ) | See next resource for complementary video lectres |
+| Introduction To Computer Systems (Carnegie Mellon University) | [video lectures](https://www.cs.cmu.edu/~213/schedule.html) | Closely follows the book "Computer Systems: A Programming Perspective" |
 | 21<sup>st</sup> Century C (2<sup>nd</sup> Ed.) | [BOOK](http://a.co/jloJHt7) | |
