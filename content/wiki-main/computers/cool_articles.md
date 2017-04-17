@@ -13,6 +13,7 @@ tags = ["recommendations", "c", "garbageCollection", "compilers", "crypto"]
 | [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/) | HTML | Really great tutorial (and introduction to C programming and terminal programming). |
 | [Data Structures For Text Sequences](https://www.cs.unm.edu/~crowley/papers/sds.pdf) | PDF | |
 | Handmade hero | [YouTube](https://handmadehero.org/) series | Dude builds a complete release-quality video game from scratch in minimal subset of C++ before your very eyes. |
+| Online Computer Science Courses With Video Lectures | [HTML](https://github.com/Developer-Y/cs-video-courses) (community git) | Giant collection of free video lectures. |
 
 ## Crypto
 
