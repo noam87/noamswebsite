@@ -3,7 +3,7 @@ draft = false
 date = "2017-01-04T11:05:23-05:00"
 title = "Math/ML Resources"
 wikis = ["datascience", "math", "cs"]
-tags = ["ml", "recommendations"]
+tags = ["informationTheory", "ml", "recommendations", "probability"]
 +++
 
 ## Math
