@@ -18,7 +18,7 @@ my top 10 favorite books. I re-read them every time I disappoint myself.
 
 ---
 
-> Through not observing what is in the mind of another man has seldom been seen
+> Through not observing what is in the mind of another man, a man has seldom been seen
 > to be unhappy; but those who do not observe the movement of their own minds
 > must of necessity be unhappy.
 
