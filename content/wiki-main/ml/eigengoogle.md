@@ -3,7 +3,7 @@ date = "2014-01-27T18:06:24-05:00"
 title = "Eigengoogle: How the Google PageRank Algorithm Works"
 draft = false
 wikis = ["datascience", "math"]
-tags = ["featured"]
+tags = ["featured", "linearalgebra", "markovchains", "probability"]
 +++
 
 While we're on the subject of sorting things online, we might as well talk
