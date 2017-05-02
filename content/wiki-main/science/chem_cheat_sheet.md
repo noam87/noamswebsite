@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = "2017-04-26"
 title = "Chemistry Cheat Sheet"
 wikis = ["science", "biology", "chemistry"]
