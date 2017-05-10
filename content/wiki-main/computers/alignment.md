@@ -41,7 +41,9 @@ memory<sup>1</sup>, but it has many drawbacks:
 
 ## Example
 
-Consider a bitmap data structure where each pixel is represented by 3 bytes (RGB). In order to preserve alignment we add a "padding byte"<sup>3</sup>, making the structure 32 bits instead of 24:
+Consider a bitmap data structure where each pixel is represented by 3 bytes
+(RGB). In order to preserve alignment we add a "padding byte"<sup>3</sup>,
+making the structure 32 bits instead of 24:
 
 ```
 +---------------+---------------+---------------+---------------+

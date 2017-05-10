@@ -11,7 +11,9 @@
     Programming, computer science, tutorials, etc.
     <ul>
       {{ range .Site.Taxonomies.wikis.computers }}
-        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+        {{ if not (isset .Page.Params "hideindex") }}
+          <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+        {{ end }}
       {{ end }}
     </ul>
   </div>
@@ -20,7 +22,9 @@
     More theoretical / mathematical stuff (math, ml, computer science).
     <ul>
       {{ range .Site.Taxonomies.wikis.math }}
-        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+        {{ if not (isset .Page.Params "hideindex") }}
+          <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+        {{ end }}
       {{ end }}
     </ul>
   </div>
@@ -32,7 +36,9 @@
     Stuff related to work, self-employment, startups, etc.
     <ul>
       {{ range .Site.Taxonomies.wikis.career }}
-        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+        {{ if not (isset .Page.Params "hideindex") }}
+          <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+        {{ end }}
       {{ end }}
     </ul>
   </div>
@@ -41,7 +47,9 @@
     Notes / lectures etc. about natural sciences.
     <ul>
       {{ range .Site.Taxonomies.wikis.science }}
-        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+        {{ if not (isset .Page.Params "hideindex") }}
+          <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+        {{ end }}
       {{ end }}
     </ul>
   </div>

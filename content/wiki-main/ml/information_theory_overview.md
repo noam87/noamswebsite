@@ -1,5 +1,6 @@
 +++
-draft = true
+draft = false
+hideindex = true
 date = "2017-04-28"
 title = "Information Theory Overview"
 wikis = ["math", "cs"]

@@ -1,5 +1,6 @@
 +++
-draft = true
+draft = false
+hideindex = true
 date = "2017-04-27"
 title = "Linear Algebra Cheat Sheet"
 wikis = ["math"]
