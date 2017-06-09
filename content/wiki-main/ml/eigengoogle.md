@@ -44,7 +44,7 @@ edges have each been assigned a "weight" (usually some real number) is a
 ![](/img/weighted_graph01.png)
 
 A graph of `n` nodes can be represented in the form of an `n x n` **adjacency
-matrix**, $M = [m\_{ij}]$ such that $m\_{ij}$ is equal to the weight of the edge
+matrix**, $M = [m\_{ij}]$% such that $m\_{ij}$ is equal to the weight of the edge
 going from node $j$ to node $i$:
 
 ```
