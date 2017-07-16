@@ -1,5 +1,5 @@
 +++
-title = "Cool Articles / Papers"
+title = "Computer Science Articles / Books"
 draft = false
 date = "2017-04-11"
 wikis = ["computers"]
@@ -14,6 +14,7 @@ tags = ["recommendations", "c", "garbageCollection", "compilers", "crypto"]
 | [Data Structures For Text Sequences](https://www.cs.unm.edu/~crowley/papers/sds.pdf) | PDF | |
 | Handmade hero | [YouTube](https://handmadehero.org/) series | Dude builds a complete release-quality video game from scratch in minimal subset of C++ before your very eyes. |
 | Online Computer Science Courses With Video Lectures | [HTML](https://github.com/Developer-Y/cs-video-courses) (community git) | Giant collection of free video lectures. |
+| [The Linux Programming Interface](http://a.co/5thRw0b) | BOOK | If you want to program Linux seriously, get this. |
 
 ## Crypto
 
@@ -28,6 +29,7 @@ tags = ["recommendations", "c", "garbageCollection", "compilers", "crypto"]
 | Title | Format | Notes |
 |-------|--------|-------|
 | [Back To Basics: Generational Garbage Collection](https://blogs.msdn.microsoft.com/abhinaba/2009/03/02/back-to-basics-generational-garbage-collection/) | HTML | |
+| [Compiler Design In C](http://a.co/7AkP7cC) | BOOK | Out of print. One of the best programming books I've come across. GET IT! |
 
 See also [here](/wiki-main/computers/elixir\_resources) for examples with Erlang VM
 GC.
