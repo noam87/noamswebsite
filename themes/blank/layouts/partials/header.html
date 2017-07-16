@@ -27,13 +27,13 @@
 
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap-grid.css">
-	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+	<link rel="stylesheet" href="/css/bootstrap-grid.css">
+	<link rel="stylesheet" href="/css/style.css">
 	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
 	{{ .Hugo.Generator }}
 </head>
 <body>
   <div class="container">
     <header>
-      <h1 class="main-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+      <h1 class="main-title"><a href="/">{{ .Site.Title }}</a></h1>
     </header>
