@@ -3,13 +3,27 @@ date = "2017-08-28"
 title = "John Stuart Mill"
 draft = false
 wikis = ["quotes"]
-rtags = ["jsmill", "liberalism", "social"]
+rtags = ["jsmill", "liberalism", "social", "liberty", "freespeech",
+         "nonviolence"]
 +++
 
-Excerpts and notes from Mill's *On Liberty*. Some are in the form of a question
-and answer dialogue to address common misconceptions people have on free
-speech (and I've come to find out that people have *many* misconceptions about
-it).
+Excerpts and notes from Mill's *On Liberty*. Some are in the form of a
+question-and-answer dialogue to address common misconceptions people have about
+free speech.
+
+In particular, I would like to do away with the notion that free speech
+advocates possess a sort of romantic naivete, foolishly holding on to
+sentimental notions of man's natural right to speak, and are blind to the
+fact that, by indiscriminately providing aggressors with a "platform", they are
+merely giving the enemy more ammunition with which to harm him.
+
+
+![](/img/fs_1.jpg)
+
+This popular perception stems from what is sadly a common misrepresentation of
+what free speech is -- the truth is in fact the opposite: at the root of
+the utilitarian conception of free speech lies a rather cynical and pessimistic
+view of human nature.
 
 The full book is available here for free, and everyone should read it:
 https://www.gutenberg.org/files/34901/34901-h/34901-h.htm#Page\_1
@@ -263,6 +277,8 @@ The four main arguments for freedom of speech:
 > restrain this employment of vituperative language than the other;
 
 ## Hate Speech And Incitement
+
+![](/img/fs_2.png)
 
 > This last proviso is of course indispensable. No one pretends that actions
 > should be as free as opinions. On the contrary, even opinions lose their
