@@ -94,7 +94,12 @@ rtags = ["hannaharendt", "social"]
 
 ---
 
-> Conforming to a society which discriminated against "ordinary" Jews and in which, at the same time, it was generally easier for an educated Jew to be admitted to fashionable circles than for a non-Jew of similar condition, Jews had to differentiate themselves clearly from the "Jew in general", and just as clearly to indicate that they were Jews; under no circumstances were they allowed simply to disappear among their neighbors.
+> Conforming to a society which discriminated against "ordinary" Jews and in
+> which, at the same time, it was generally easier for an educated Jew to be
+> admitted to fashionable circles than for a non-Jew of similar condition, Jews
+> had to differentiate themselves clearly from the "Jew in general", and just
+> as clearly to indicate that they were Jews; under no circumstances were they
+> allowed simply to disappear among their neighbors.
 
 ## Agency
 

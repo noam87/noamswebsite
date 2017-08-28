@@ -8,7 +8,7 @@ wikis = ["writing"]
 **(Unfinished Sketch / In Progress)**
 
 <pre>
-It happed one day that through a thick-leaved forest wondered I
+It happed one day that through a thick-leaved forest wandered I
 And in that dark buzzed what I thought an ordinary fly
 
 ...
