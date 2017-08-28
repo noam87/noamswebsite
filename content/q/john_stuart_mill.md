@@ -6,31 +6,13 @@ wikis = ["quotes"]
 rtags = ["jsmill", "liberalism", "social"]
 +++
 
-Freedom Of speech has become somewhat of a cultural caricature -- familiar to
-everyone, yet few seem to truly grasp what it actually is, and fewer still are
-able to articulate why it's needed. Ironically, it's become the very sort of
-empty convention Mill warns us widely-accepted truths run the risk of becoming
-when they go unquestioned for too long.
+Excerpts and notes from Mill's *On Liberty*. Some are in the form of a question
+and answer dialogue to address common misconceptions people have on free
+speech (and I've come to find out that people have *many* misconceptions about
+it).
 
-Everyone -- I do mean *everyone* -- should read and reflect on the
-three opening chapters of *On Liberty*; if not for their own entertainment, then for
-the benefit of their peers: I really can't think of another book (and one so
-short!) about which I can say without doubt that, if all were familiar
-with its contents, society would be a markedly more pleasant affair.
-
-To make a point more bluntly: anyone who's **not** intimately familiar with
-the ideas presented in this book is someone who simply does not possess the
-intellectual tooling that's requisite if they wish to take part in
-conversations (let alone decisions!) concerning freedom of speech and
-individual expression.
-
-The problem of free speech and individuality has been dear to me for as long as
-I can remember. Below are some personal excerpts and notes concerning *On
-Liberty*. Some are edited to highlight common misconceptions I've encountered,
-sometimes in the form of a question and answer dialogue.
-
-(The full book is available here for free:
-https://www.gutenberg.org/files/34901/34901-h/34901-h.htm#Page_1)
+The full book is available here for free, and everyone should read it:
+https://www.gutenberg.org/files/34901/34901-h/34901-h.htm#Page\_1
 
 ## On Freedom Of Speech
 
