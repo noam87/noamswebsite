@@ -20,24 +20,28 @@ sentiments popularized for example in cartoons like this:
 
 ![](/img/fs_1.jpg)
 
-The reality is quite opposite: far from naive, at the root of the utilitarian
+Quite opposite: far from naive, at the root of the utilitarian
 conception of free speech lies a cynical view of human nature and the limits of
-man's capacity for sound moral judgement.
+man's capacity for making sound moral judgement.
 
 (*On Liberty* in its entirety is available here for free here:
 https://www.gutenberg.org/files/34901/34901-h/34901-h.htm)
 
+Before we explore the intricacies of his essay, let's address the most basic
+question:
+
 ## Q: What are the main reasons for protecting free speech?
 
-JS Mill presents the reader with four principal arguments for free speech.
-Note that at no point does he moralize on man's natural right to free expression
-or romantic notions of "truth": Mill is solely concerned about the far-reaching
-societal consequences of impeding dissent. The four arguments are as follows:
+JS Mill presents the reader with four principal arguments.  Note that at no
+point does he moralize on man's natural right to free expression, romantic
+notions of "Truth", or anything of the sort: Mill is solely concerned about the
+far-reaching societal consequences of impeding dissent. The four arguments are
+as follows:
 
 > **First,** if any opinion is compelled to silence, that opinion may, for aught we
 > can certainly know, be true. To deny this is to assume our own infallibility.
 
-This is rather straightforward and intuitive: we are all flawed; by silencing
+This is pretty straightforward: we are all flawed; by silencing
 those we believe to be in error we may inadvertently silence someone who holds
 a valid opinion.
 
@@ -47,15 +51,15 @@ a valid opinion.
 > of adverse opinions that the remainder of the truth has any chance of being
 > supplied.
 
-Here we enter a more subtle territory which will be further explored below:
-even if one is mostly right, it is rare that one is *wholly* right; and
-similarly, there is often a grain of truth to be found even in the opinion of
-those who are mostly wrong. Mill argues that it's only by allowing the two
-viewpoints to clash freely can we hope to build in our minds a more complete
-picture of what is true.
+Here we enter slightly more subtle territory: even if one is mostly right, it
+is rare that one is *wholly* right; and similarly, there is often a grain of
+truth to be found even in the opinion of those who are mostly wrong. Mill
+argues that it's only by allowing the two viewpoints to clash that we can
+separate the wheat from the chaff.
 
 His two final arguments are often overlooked in discussions of free speech,
-though they are vital:
+though they are vital -- their implications are also rather counterintuitive,
+so they must be considered carefully:
 
 > **Thirdly,** even if the received opinion be not only true, but the whole truth;
 > unless it is suffered to be, and actually is, vigorously and earnestly
@@ -68,8 +72,51 @@ though they are vital:
 > any real and heartfelt conviction, from reason or personal experience.
 
 That is, dissent must be encouraged not only to correct popular opinions that
-are wrong, but to preserve popular opinions that are right; because the moment
+are wrong, but to preserve popular opinions that are right; because when
 they become mere dogma, they run the risk of being lost or perverted.
+
+Failure to understand arguments 3 and 4 are, I believe, at the core of modern
+polemic surrounding free speech and the "no platform" movement. Thus we end up
+with absurd situations in which, for example, children's authors who write
+cautionary tales of racism [are instead accused of promoting
+it](http://www.vulture.com/2017/08/the-toxic-drama-of-ya-twitter.html).
+
+## Q: Isn't it naive to think that you can change a Racist's mind by debating them?
+
+It would of course be naive to expect a staunch white supremacist to change his
+mind half way through a public debate...
+
+> I acknowledge that the tendency of all opinions to become sectarian is not
+> cured by the freest discussion, but is often heightened and exacerbated
+> thereby; the truth which ought to have been, but was not, seen, being
+> rejected all the more violently because proclaimed by persons regarded as
+> opponents. But **it is not on the impassioned partisan, it is on the calmer
+> and more disinterested bystander, that this collision of opinions works its
+> salutary effect.**
+
+When debating a racist, whether in public life or in an academic setting, your
+goal is not to convince the racist. Instead keep in mind that every debate has
+an audience; this audience will encompass an entire spectrum of persuasions and
+life experiences. Being witness to an open and respectful debate could be the
+catalyst that sets someone to question their beliefs.
+
+Back in 2010 I went down to the US for Jon Stewart's [Rally To Restore
+Sanity](https://en.wikipedia.org/wiki/Rally\_to\_Restore\_Sanity\_and/or\_Fear)
+and invited someone I knew down there to come with me. They're not a
+particularly political person, but I thought it would be a fun experience for
+them. The speeches were the usual sort of tame liberal banter I'd think
+nothing much of, growing up with two activist parents. Anyway, halfway through
+the monologue I remember my friend turned to me, wide eyed, and said "Wow!
+I'd never thought of it that way! -- **I never heard people say things like
+that!**"
+
+Wherever we go we are ambassadors of our moral convictions -- our actions, and
+more importantly how they are perceived, may be the only point of reference for
+an outsider -- *someone who has simply never been exposed to our point of view,
+because they never had a reason to*. As viscerally satisfying as it is to tar
+and feather opponents and kick them out of town, we must always be wary of
+setting up ideological ghettos where hate and resentment can only fester and
+grow.
 
 ## Understanding The Other
 
@@ -259,17 +306,6 @@ they become mere dogma, they run the risk of being lost or perverted.
 > unanimity of the world on any subject, even if the world is in the right, it
 > is always probable that dissentients have something worth hearing to say for
 > themselves, and that truth would lose something by their silence.
-
-
-## The Purpose Of Debate Is Not To Convince The Other Side
-
-> I acknowledge that the tendency of all opinions to become sectarian is not
-> cured by the freest discussion, but is often heightened and exacerbated
-> thereby; the truth which ought to have been, but was not, seen, being
-> rejected all the more violently because proclaimed by persons regarded as
-> opponents. But **it is not on the impassioned partisan, it is on the calmer
-> and more disinterested bystander, that this collision of opinions works its
-> salutary effect.**
 
 
 ## Don't Make A Habit Of Stigmatizing Dissent
