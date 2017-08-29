@@ -118,37 +118,111 @@ and feather opponents and kick them out of town, we must always be wary of
 setting up ideological ghettos where hate and resentment can only fester and
 grow.
 
-## Understanding The Other
+## Q: Okay, debating racists is one thing. But why should we let them speak? Why listen to what they have to say?
 
-> They have never thrown themselves into the mental position of those who think
+Mill warns us multiple times to not become a public who has...
+
+> Never thrown themselves into the mental position of those who think
 > differently from them, and considered what such persons may have to say.
 
 > The greatest orator of antiquity has left it on record that he always studied
 > his adversary's case with as great, if not with still greater, intensity than
 > even his own. What Cicero practised as the means of forensic success,
 > requires to be imitated by all who study any subject in order to arrive at
-> the truth. He who knows only his own side of the case, knows little of that.
-> His reasons may be good, and no one may have been able to refute them.  But
-> if he is equally unable to refute the reasons on the opposite side; if he
-> does not so much as know what they are, he has no ground for preferring
-> either opinion. The rational position for him would be suspension of
-> judgment, and unless he contents himself with that, he is either led by
+> the truth. **He who knows only his own side of the case, knows little of
+> that.** His reasons may be good, and no one may have been able to refute
+> them.  But if he is equally unable to refute the reasons on the opposite
+> side; if he does not so much as know what they are, he has no ground for
+> preferring either opinion. The rational position for him would be suspension
+> of judgment, and unless he contents himself with that, he is either led by
 > authority, or adopts, like the generality of the world, the side to which he
-> feels most inclination.  Nor is it enough that he should hear the arguments
-> of adversaries from his own teachers, presented as they state them, and
-> accompanied by what they offer as refutations. That is not the way to do
-> justice to the arguments, or bring them into real contact with his own mind.
-> He must be able to hear them from persons who actually believe them; who
-> defend them in earnest, and do their very utmost for them. He must know them
-> in their most plausible and persuasive form; he must feel the whole force of
-> the difficulty which the true view of the subject has to encounter and
-> dispose of; else he will never really possess himself of the portion of truth
-> which meets and removes that difficulty.
+> feels most inclination.
+
+He goes on, with the following vital example:
+
+> **Nor is it enough that he should hear the arguments of adversaries from his
+> own teachers, presented as they state them, and accompanied by what they
+> offer as refutations.** That is not the way to do justice to the arguments,
+> or bring them into real contact with his own mind.  He must be able to hear
+> them from persons who actually believe them; who defend them in earnest, and
+> do their very utmost for them. He must know them in their most plausible and
+> persuasive form; he must feel the whole force of the difficulty which the
+> true view of the subject has to encounter and dispose of; else he will never
+> really possess himself of the portion of truth which meets and removes that
+> difficulty.
+
+This passage serves to highlight a major failing from our educators and
+political writers, who typically paraphrase and bastardize unfavorable views,
+and weaken their arguments to make them appear less persuasive, leaving the
+audience with the false impression that good morality is self-evident.
+
+Good morals are far from self evident. It is not self evident that slavery is
+wrong; it is not self evident that anyone has a right to exist; nor is it self
+evident that we are all entitled to equal treatment under the law.
+
+Similarly, far from being stupid and self-evidently nasty, fascism is a
+powerful, persuasive ideology that continues to lure bright minds to this day,
+and, if unchecked, spreads like wildfire under the right conditions --
+precisely *because* it is so effective.
+
+To teach our students otherwise is to rob them of the intellectual tooling they
+need to defend their own liberties. It's embarrassing to watch YouTube videos
+of Ben Shapiro and Milo Yiannopoulos talk circles around stammering, babbling
+humanities majors who can scarcely string together a proper question, let alone
+a cogent defense of their own position -- having clearly never been properly
+exposed to an opposite view.
+
+Compare today's dogmatic performances from progressive moralists with [this old
+clip](https://youtu.be/9DvmLMUfGss) of Noam Chomsky practically mopping the
+floor with William Buckley, to see the difference between ideologues who've
+been taught chanting "This is what white supremacy looks like" serves any
+purpose other than masturbatory, the value of an intellectual clarity that's
+earned only honest exploratory analysis.
+
+(Chomsky's commitment to this principle is best exemplified in [his defense of
+a Holocaust denier](https://en.wikipedia.org/wiki/Faurisson_affair) in the late
+70's.)
+
+So vital is exposure to dissent to our understanding, that Mill goes on step
+further, and recommends that, if a dissenting view is not available, one should
+try to formulate it:
 
 > So essential is this discipline to a real understanding of moral and human
 > subjects, that if opponents of all important truths do not exist, it is
 > indispensable to imagine them, and supply them with the strongest arguments
 > which the most skilful devil's advocate can conjure up.
+
+How many young socialists and left-wingers are familiar with Friedman? How many
+could successfully refute his arguments, how many could survive a debate
+against him? How can they otherwise be convinced of their belief if they don't
+understand the alternative, how could they expect to successfully recruit an
+outsider? (Marx himself was well read on Adam Smith and the classical
+economists -- else what would his theories have been a criticism *of*?).
+
+If you're a progressive, spend a week immersing yourself in Fox News and
+conservative propaganda (I recently did this... it was awful). We all hold in
+our heads a caricature of the "other side". This caricature is often incorrect.
+If we wish to be intellectually honest, we must do away with this caricature.
+Even at the extremes of ideology -- I have debated and questioned a handful of
+neo-Nazis and white supremacists in my youth, and came to understand difficult
+facets of human nature that no book or newspaper could have taught me.
+
+I've always been bored by people who agree with me; I've always sought the
+conversation of conservatives, religious right-wingers, and communists. -- This
+leaves me in a sort of no-man's land at times. Often people with whom I agree
+fall under the impression that I'm "defending" the "other side" when I express
+my frustration that they misrepresent the opposing argument, because they've
+never taken the time to actually understand the other side's worldview; they
+are engaged in a pointless exercise: *they are arguing with ghosts*.
+
+
+## Q: But what if I'm wrong?
+
+And most importantly, allow yourself (and others) to be wrong:
+
+> Truth gains more even by the errors of one who, with due study and
+> preparation, thinks for himself, than by the true opinions of those who only
+> hold them because they do not suffer themselves to think.
 
 ## Political Theory Vs The Real World
 
@@ -237,9 +311,6 @@ grow.
 
 ## Being Right For The Wrong Reasons
 
-> Truth gains more even by the errors of one who, with due study and
-> preparation, thinks for himself, than by the true opinions of those who only
-> hold them because they do not suffer themselves to think.
 
 ---
 
