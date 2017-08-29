@@ -7,44 +7,55 @@ rtags = ["jsmill", "liberalism", "social", "liberty", "freespeech",
          "nonviolence"]
 +++
 
+**THIS IS A POOPOO DRAFT**
+
 Excerpts and notes from Mill's *On Liberty*. Some are in the form of a
-question-and-answer dialogue to address common misconceptions people have about
-free speech.
+question-and-answer dialogue to address common misconceptions about free speech.
 
-In particular, I would like to do away with the notion that free speech
-advocates possess a sort of romantic naivete, foolishly holding on to
-sentimental notions of man's natural right to speak, and are blind to the
-fact that, by indiscriminately providing aggressors with a "platform", they are
-merely giving the enemy more ammunition with which to harm him.
-
+In part my goal is to help dispel the idea that free speech advocates are all
+afflicted by a sort of romantic naivete, foolishly holding on to sentimental
+notions of man's "natural right" to speak, or are blind to the paradoxical
+threats that arise from "providing aggressors with a platform to spread hate" --
+sentiments popularized for example in cartoons like this:
 
 ![](/img/fs_1.jpg)
 
-This popular perception stems from what is sadly a common misrepresentation of
-what free speech is -- the truth is in fact the opposite: at the root of
-the utilitarian conception of free speech lies a rather cynical and pessimistic
-view of human nature.
+The reality is quite opposite: far from naive, at the root of the utilitarian
+conception of free speech lies a cynical view of human nature and the limits of
+man's capacity for sound moral judgement.
 
-The full book is available here for free, and everyone should read it:
-https://www.gutenberg.org/files/34901/34901-h/34901-h.htm#Page\_1
+(*On Liberty* in its entirety is available here for free here:
+https://www.gutenberg.org/files/34901/34901-h/34901-h.htm)
 
-## On Freedom Of Speech
+## Q: What are the main reasons for protecting free speech?
 
-The four main arguments for freedom of speech:
-
-> We have now recognised the necessity to the mental well-being of mankind (on
-> which all their other well-being depends) of freedom of opinion, and freedom
-> of the expression of opinion, on four distinct grounds; which we will now
-> briefly recapitulate.
+JS Mill presents the reader with four principal arguments for free speech.
+Note that at no point does he moralize on man's natural right to free expression
+or romantic notions of "truth": Mill is solely concerned about the far-reaching
+societal consequences of impeding dissent. The four arguments are as follows:
 
 > **First,** if any opinion is compelled to silence, that opinion may, for aught we
 > can certainly know, be true. To deny this is to assume our own infallibility.
+
+This is rather straightforward and intuitive: we are all flawed; by silencing
+those we believe to be in error we may inadvertently silence someone who holds
+a valid opinion.
 
 > **Secondly,** though the silenced opinion be an error, it may, and very commonly
 > does, contain a portion of truth; and since the general or prevailing opinion
 > on any subject is rarely or never the whole truth, it is only by the collision
 > of adverse opinions that the remainder of the truth has any chance of being
 > supplied.
+
+Here we enter a more subtle territory which will be further explored below:
+even if one is mostly right, it is rare that one is *wholly* right; and
+similarly, there is often a grain of truth to be found even in the opinion of
+those who are mostly wrong. Mill argues that it's only by allowing the two
+viewpoints to clash freely can we hope to build in our minds a more complete
+picture of what is true.
+
+His two final arguments are often overlooked in discussions of free speech,
+though they are vital:
 
 > **Thirdly,** even if the received opinion be not only true, but the whole truth;
 > unless it is suffered to be, and actually is, vigorously and earnestly
@@ -55,6 +66,10 @@ The four main arguments for freedom of speech:
 > character and conduct: the dogma becoming a mere formal profession,
 > inefficacious for good, but cumbering the ground, and preventing the growth of
 > any real and heartfelt conviction, from reason or personal experience.
+
+That is, dissent must be encouraged not only to correct popular opinions that
+are wrong, but to preserve popular opinions that are right; because the moment
+they become mere dogma, they run the risk of being lost or perverted.
 
 ## Understanding The Other
 
