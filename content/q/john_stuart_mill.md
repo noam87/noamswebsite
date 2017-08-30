@@ -83,9 +83,6 @@ it](http://www.vulture.com/2017/08/the-toxic-drama-of-ya-twitter.html).
 
 ## Q: Isn't it naive to think that you can change a Racist's mind by debating them?
 
-It would of course be naive to expect a staunch white supremacist to change his
-mind half way through a public debate...
-
 > I acknowledge that the tendency of all opinions to become sectarian is not
 > cured by the freest discussion, but is often heightened and exacerbated
 > thereby; the truth which ought to have been, but was not, seen, being
@@ -96,8 +93,8 @@ mind half way through a public debate...
 
 When debating a racist, whether in public life or in an academic setting, your
 goal is not to convince the racist. Instead keep in mind that every debate has
-an audience; this audience will encompass an entire spectrum of persuasions and
-life experiences. Being witness to an open and respectful debate could be the
+an audience; this audience will encompass a wide spectrum of persuasions and
+experiences. Being exposed to a well-presented counterargument could be the
 catalyst that sets someone to question their beliefs.
 
 Back in 2010 I went down to the US for Jon Stewart's [Rally To Restore
@@ -107,13 +104,13 @@ particularly political person, but I thought it would be a fun experience for
 them. The speeches were the usual sort of tame liberal banter I'd think
 nothing much of, growing up with two activist parents. Anyway, halfway through
 the monologue I remember my friend turned to me, wide eyed, and said "Wow!
-I'd never thought of it that way! -- **I never heard people say things like
+I'd never thought of it that way! -- **I've never heard people say things like
 that!**"
 
 Wherever we go we are ambassadors of our moral convictions -- our actions, and
 more importantly how they are perceived, may be the only point of reference for
-an outsider -- *someone who has simply never been exposed to our point of view,
-because they never had a reason to*. As viscerally satisfying as it is to tar
+an outsider -- someone who's never been exposed to our point of view,
+*because they never had a reason to*. As viscerally satisfying as it is to tar
 and feather opponents and kick them out of town, we must always be wary of
 setting up ideological ghettos where hate and resentment can only fester and
 grow.
@@ -124,6 +121,8 @@ Mill warns us multiple times to not become a public who has...
 
 > Never thrown themselves into the mental position of those who think
 > differently from them, and considered what such persons may have to say.
+
+He goes on:
 
 > The greatest orator of antiquity has left it on record that he always studied
 > his adversary's case with as great, if not with still greater, intensity than
@@ -138,7 +137,7 @@ Mill warns us multiple times to not become a public who has...
 > authority, or adopts, like the generality of the world, the side to which he
 > feels most inclination.
 
-He goes on, with the following vital example:
+His next observation is essential:
 
 > **Nor is it enough that he should hear the arguments of adversaries from his
 > own teachers, presented as they state them, and accompanied by what they
@@ -152,9 +151,9 @@ He goes on, with the following vital example:
 > difficulty.
 
 This passage serves to highlight a major failing from our educators and
-political writers, who typically paraphrase and bastardize unfavorable views,
+political writers, who so liberally paraphrase and bastardize unfavorable views,
 and weaken their arguments to make them appear less persuasive, leaving the
-audience with the false impression that good morality is self-evident.
+audience with a false impression that good morality is self-evident.
 
 Good morals are far from self evident. It is not self evident that slavery is
 wrong; it is not self evident that anyone has a right to exist; nor is it self
@@ -168,24 +167,20 @@ precisely *because* it is so effective.
 To teach our students otherwise is to rob them of the intellectual tooling they
 need to defend their own liberties. It's embarrassing to watch YouTube videos
 of Ben Shapiro and Milo Yiannopoulos talk circles around stammering, babbling
-humanities majors who can scarcely string together a proper question, let alone
-a cogent defense of their own position -- having clearly never been properly
-exposed to an opposite view.
+university students who can scarcely string together pertinent questions, let
+alone a cogent defense of their own position -- having clearly never been
+properly exposed to an opposite view.
 
-Compare today's dogmatic performances from progressive moralists with [this old
-clip](https://youtu.be/9DvmLMUfGss) of Noam Chomsky practically mopping the
-floor with William Buckley, to see the difference between ideologues who've
-been taught chanting "This is what white supremacy looks like" serves any
-purpose other than masturbatory, the value of an intellectual clarity that's
-earned only honest exploratory analysis.
+Compare today's dogmatic, rhetoric-laden performances from progressive
+moralists with [this old clip](https://youtu.be/9DvmLMUfGss) of Noam
+Chomsky<sup>1</sup> deftly standing his ground against every rhetorical trick
+and "gotcha" William Buckley throws at him.  Aren't we all better off that he
+didn't sit in his chair for the duration of the program chanting "This is what
+white supremacy looks like"?
 
-(Chomsky's commitment to this principle is best exemplified in [his defense of
-a Holocaust denier](https://en.wikipedia.org/wiki/Faurisson_affair) in the late
-70's.)
-
-So vital is exposure to dissent to our understanding, that Mill goes on step
-further, and recommends that, if a dissenting view is not available, one should
-try to formulate it:
+So vital is exposure to dissent to our understanding, that Mill goes one step
+further, and recommends that whenever a dissenting opinion is not available, we
+should invent it:
 
 > So essential is this discipline to a real understanding of moral and human
 > subjects, that if opponents of all important truths do not exist, it is
@@ -197,7 +192,7 @@ could successfully refute his arguments, how many could survive a debate
 against him? How can they otherwise be convinced of their belief if they don't
 understand the alternative, how could they expect to successfully recruit an
 outsider? (Marx himself was well read on Adam Smith and the classical
-economists -- else what would his theories have been a criticism *of*?).
+economists).
 
 If you're a progressive, spend a week immersing yourself in Fox News and
 conservative propaganda (I recently did this... it was awful). We all hold in
@@ -215,6 +210,13 @@ my frustration that they misrepresent the opposing argument, because they've
 never taken the time to actually understand the other side's worldview; they
 are engaged in a pointless exercise: *they are arguing with ghosts*.
 
+---
+
+<small>
+  1. Chomsky's commitment to this principle is best exemplified by [his defense
+     of a Holocaust denier](https://en.wikipedia.org/wiki/Faurisson\_affair) in
+     the late 70's.
+</small>
 
 ## Q: But what if I'm wrong?
 
