@@ -89,14 +89,16 @@ it](http://www.vulture.com/2017/08/the-toxic-drama-of-ya-twitter.html).
 > is always probable that dissentients have something worth hearing to say for
 > themselves, and that truth would lose something by their silence.
 
-## Q: What about bigots: why should we let them speak? Why listen to what they have to say?
+## Q: One thing is to disagree. But why should I listen to people whose opinions I find vile?
 
-Mill warns us multiple times to not become a public who has...
-
-> Never thrown themselves into the mental position of those who think
-> differently from them, and considered what such persons may have to say.
-
-He goes on:
+Don't fall into the trap of believing that doing so puts the other at an
+advantage, or that it is a means of legitimizing an evil opinion -- in fact it's
+in depriving ourselves of their opinion that we might be weakening our own
+position. When we let the other speak, even in cases of opinions we
+personally find abhorrent, it's not for the other's benefit, but for our own.
+Mill warns multiple times of the person who has "never thrown themselves into
+the mental position of those who think differently from them, and considered
+what such persons may have to say":
 
 > The greatest orator of antiquity has left it on record that he always studied
 > his adversary's case with as great, if not with still greater, intensity than
@@ -111,7 +113,7 @@ He goes on:
 > authority, or adopts, like the generality of the world, the side to which he
 > feels most inclination.
 
-His next observation is essential:
+But his next observation is essential:
 
 > **Nor is it enough that he should hear the arguments of adversaries from his
 > own teachers, presented as they state them, and accompanied by what they
@@ -131,26 +133,19 @@ audience with the false impression that good morality is self-evident.
 
 Good morals are far from self-evident. It is not self-evident that slavery is
 wrong; it is not self-evident that anyone has a right to exist; nor is it
-self-evident that we are all entitled to equal treatment under the law.
+self-evident that we are all entitled to equal treatment under the law. If it
+were, it wouldn't be so damn hard for societies to progress! -- Similarly, far
+from being stupid and self-evidently nasty, fascism is a powerful, persuasive
+ideology that continues to lure bright minds to this day, and under the right
+conditions, if unchecked, spreads like wildfire -- precisely *because* it is so
+effective.
 
-Similarly, far from being stupid and self-evidently nasty, fascism is a
-powerful, persuasive ideology that continues to lure bright minds to this day,
-and under the right conditions, if unchecked, spreads like wildfire --
-precisely *because* it is so effective.
-
-To teach our students otherwise is to rob them of the intellectual tools they
+To teach students otherwise is to rob them of the intellectual tools they
 need to defend their own liberties. It's embarrassing to watch YouTube videos
-of Ben Shapiro and Milo Yiannopoulos talk circles around stammering, babbling
+of Ben Shapiro and Milo Yiannopoulos talking circles around stammering, babbling
 university students who can scarcely string together pertinent questions, let
 alone a cogent defense of their own position -- having clearly never been
 properly exposed to an opposite view.
-
-Compare today's dogmatic, rhetoric-laden performances from progressive
-moralists with [this old clip](https://youtu.be/9DvmLMUfGss) of Noam
-Chomsky<sup>1</sup> deftly standing his ground against every rhetorical trick
-and "gotcha" William Buckley throws at him.  Aren't we all better off that he
-didn't just sit in his chair for the duration of the program chanting "This is
-what white supremacy looks like"?
 
 So vital is exposure to dissent to our understanding, that Mill goes one step
 further, and recommends that whenever a dissenting opinion is not available, we
@@ -160,14 +155,6 @@ should invent it:
 > subjects, that if opponents of all important truths do not exist, it is
 > indispensable to imagine them, and supply them with the strongest arguments
 > which the most skilful devil's advocate can conjure up.
-
----
-
-<small>
-  1. Chomsky's commitment to this principle is best exemplified by [his defense
-     of a Holocaust denier](https://en.wikipedia.org/wiki/Faurisson\_affair) in
-     the late 70's.
-</small>
 
 ## Q: Some things should not be up for debate. Do we really need to question moral truths that have long been settled?
 
@@ -186,9 +173,8 @@ should invent it:
 > decided opinion."
 
 On multiple instances, Mill illustrates this paradox in different forms: by
-consecrating certain moral principles and hard-earned liberties, by declaring
-them beyond questioning, far from protecting them we rob them of their urgency
-and weaken them.
+consecrating certain moral principles, by declaring them beyond questioning,
+far from protecting them we rob them of their urgency and weaken them.
 
 ---
 
@@ -329,7 +315,7 @@ And most importantly, allow yourself (and others) to be wrong:
 
 
 
-## Social Stigma More Powerful Than Legal Censorship
+## Q: Freedom of speech is not freedom from consequences. The laws already permit all sorts of vile speech; does that mean we have to tolerate it?
 
 > It is that stigma which is really effective, and so effective is it that the
 > profession of opinions which are under the ban of society is much less common
