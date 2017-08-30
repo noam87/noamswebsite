@@ -81,7 +81,122 @@ with absurd situations in which, for example, children's authors who write
 cautionary tales of racism [are instead accused of promoting
 it](http://www.vulture.com/2017/08/the-toxic-drama-of-ya-twitter.html).
 
-## Q: Isn't it naive to think that you can change a Racist's mind by debating them?
+
+## On Dissent
+
+> When there are persons to be found, who form an exception to the apparent
+> unanimity of the world on any subject, even if the world is in the right, it
+> is always probable that dissentients have something worth hearing to say for
+> themselves, and that truth would lose something by their silence.
+
+## Q: What about bigots: why should we let them speak? Why listen to what they have to say?
+
+Mill warns us multiple times to not become a public who has...
+
+> Never thrown themselves into the mental position of those who think
+> differently from them, and considered what such persons may have to say.
+
+He goes on:
+
+> The greatest orator of antiquity has left it on record that he always studied
+> his adversary's case with as great, if not with still greater, intensity than
+> even his own. What Cicero practised as the means of forensic success,
+> requires to be imitated by all who study any subject in order to arrive at
+> the truth. **He who knows only his own side of the case, knows little of
+> that.** His reasons may be good, and no one may have been able to refute
+> them. But if he is equally unable to refute the reasons on the opposite
+> side; if he does not so much as know what they are, he has no ground for
+> preferring either opinion. The rational position for him would be suspension
+> of judgment, and unless he contents himself with that, he is either led by
+> authority, or adopts, like the generality of the world, the side to which he
+> feels most inclination.
+
+His next observation is essential:
+
+> **Nor is it enough that he should hear the arguments of adversaries from his
+> own teachers, presented as they state them, and accompanied by what they
+> offer as refutations.** That is not the way to do justice to the arguments,
+> or bring them into real contact with his own mind.  He must be able to hear
+> them from persons who actually believe them; who defend them in earnest, and
+> do their very utmost for them. He must know them in their most plausible and
+> persuasive form; he must feel the whole force of the difficulty which the
+> true view of the subject has to encounter and dispose of; **else he will never
+> really possess himself of the portion of truth which meets and removes that
+> difficulty.**
+
+This passage serves to highlight a major failing from our educators and
+political writers, who so liberally bastardize unfavorable views
+and weaken their arguments to make them seem less persuasive, leaving the
+audience with the false impression that good morality is self-evident.
+
+Good morals are far from self-evident. It is not self-evident that slavery is
+wrong; it is not self-evident that anyone has a right to exist; nor is it
+self-evident that we are all entitled to equal treatment under the law.
+
+Similarly, far from being stupid and self-evidently nasty, fascism is a
+powerful, persuasive ideology that continues to lure bright minds to this day,
+and under the right conditions, if unchecked, spreads like wildfire --
+precisely *because* it is so effective.
+
+To teach our students otherwise is to rob them of the intellectual tools they
+need to defend their own liberties. It's embarrassing to watch YouTube videos
+of Ben Shapiro and Milo Yiannopoulos talk circles around stammering, babbling
+university students who can scarcely string together pertinent questions, let
+alone a cogent defense of their own position -- having clearly never been
+properly exposed to an opposite view.
+
+Compare today's dogmatic, rhetoric-laden performances from progressive
+moralists with [this old clip](https://youtu.be/9DvmLMUfGss) of Noam
+Chomsky<sup>1</sup> deftly standing his ground against every rhetorical trick
+and "gotcha" William Buckley throws at him.  Aren't we all better off that he
+didn't just sit in his chair for the duration of the program chanting "This is
+what white supremacy looks like"?
+
+So vital is exposure to dissent to our understanding, that Mill goes one step
+further, and recommends that whenever a dissenting opinion is not available, we
+should invent it:
+
+> So essential is this discipline to a real understanding of moral and human
+> subjects, that if opponents of all important truths do not exist, it is
+> indispensable to imagine them, and supply them with the strongest arguments
+> which the most skilful devil's advocate can conjure up.
+
+---
+
+<small>
+  1. Chomsky's commitment to this principle is best exemplified by [his defense
+     of a Holocaust denier](https://en.wikipedia.org/wiki/Faurisson\_affair) in
+     the late 70's.
+</small>
+
+## Q: Some things should not be up for debate. Do we really need to question moral truths that have long been settled?
+
+> How often, when smarting under some unforeseen misfortune or disappointment,
+> does a person call to mind some proverb or common saying, familiar to him all
+> his life, the meaning of which, if he had ever before felt it as he does now,
+> would have saved him from the calamity. There are indeed reasons for this,
+> other than the absence of discussion: there are many truths of which the full
+> meaning cannot be realised, until personal experience has brought it home.
+> But much more of the meaning even of these would have been understood, and
+> what was understood would have been far more deeply impressed on the mind, if
+> the man had been accustomed to hear it argued pro and con by people who did
+> understand it. **The fatal tendency of mankind to leave off thinking about a
+> thing when it is no longer doubtful, is the cause of half their errors.** A
+> contemporary author<sup>1</sup> has well spoken of "the deep slumber of a
+> decided opinion."
+
+On multiple instances, Mill illustrates this paradox in different forms: by
+consecrating certain moral principles and hard-earned liberties, by declaring
+them beyond questioning, far from protecting them we rob them of their urgency
+and weaken them.
+
+---
+
+<small>
+    1. The author in question is Arthur Helps.
+</small>
+
+## Q: Isn't it naive to think that you can change a bigot's mind by debating them?
 
 > I acknowledge that the tendency of all opinions to become sectarian is not
 > cured by the freest discussion, but is often heightened and exacerbated
@@ -115,108 +230,74 @@ and feather opponents and kick them out of town, we must always be wary of
 setting up ideological ghettos where hate and resentment can only fester and
 grow.
 
-## Q: Okay, debating racists is one thing. But why should we let them speak? Why listen to what they have to say?
+## Q: But there are toxic people who wish to cause real harm!
 
-Mill warns us multiple times to not become a public who has...
+![](/img/fs_2.png)
 
-> Never thrown themselves into the mental position of those who think
-> differently from them, and considered what such persons may have to say.
+Mill presents us with the following hypothetical example:
 
-He goes on:
+> This last proviso is of course indispensable. No one pretends that actions
+> should be as free as opinions. On the contrary, **even opinions lose their
+> immunity, when the circumstances in which they are expressed are such as to
+> constitute their expression a positive instigation to some mischievous act.**
+> An opinion that corn-dealers are starvers of the poor, or that private
+> property is robbery, ought to be unmolested when simply circulated through
+> the press, but may justly incur punishment when delivered orally to an
+> excited mob assembled before the house of a corn-dealer, or when handed about
+> among the same mob in the form of a placard.
 
-> The greatest orator of antiquity has left it on record that he always studied
-> his adversary's case with as great, if not with still greater, intensity than
-> even his own. What Cicero practised as the means of forensic success,
-> requires to be imitated by all who study any subject in order to arrive at
-> the truth. **He who knows only his own side of the case, knows little of
-> that.** His reasons may be good, and no one may have been able to refute
-> them.  But if he is equally unable to refute the reasons on the opposite
-> side; if he does not so much as know what they are, he has no ground for
-> preferring either opinion. The rational position for him would be suspension
-> of judgment, and unless he contents himself with that, he is either led by
-> authority, or adopts, like the generality of the world, the side to which he
-> feels most inclination.
+## Q: Aren't there cases where an opinion is obviously wrong?
 
-His next observation is essential:
+Obvious to whom?
 
-> **Nor is it enough that he should hear the arguments of adversaries from his
-> own teachers, presented as they state them, and accompanied by what they
-> offer as refutations.** That is not the way to do justice to the arguments,
-> or bring them into real contact with his own mind.  He must be able to hear
-> them from persons who actually believe them; who defend them in earnest, and
-> do their very utmost for them. He must know them in their most plausible and
-> persuasive form; he must feel the whole force of the difficulty which the
-> true view of the subject has to encounter and dispose of; else he will never
-> really possess himself of the portion of truth which meets and removes that
-> difficulty.
+> While every one well knows himself to be fallible, few think it necessary to
+> take any precautions against their own fallibility, or admit the supposition
+> that any opinion, of which they feel very certain, may be one of the examples
+> of the error to which they acknowledge themselves to be liable.
 
-This passage serves to highlight a major failing from our educators and
-political writers, who so liberally paraphrase and bastardize unfavorable views,
-and weaken their arguments to make them appear less persuasive, leaving the
-audience with a false impression that good morality is self-evident.
+Whom would you trust with the authority of deciding what should and should not
+be valid opinion? Whom would you let decide which established opinions should
+and should not be questioned?
 
-Good morals are far from self evident. It is not self evident that slavery is
-wrong; it is not self evident that anyone has a right to exist; nor is it self
-evident that we are all entitled to equal treatment under the law.
+What we are being pointed to here is another moral paradox: by its very nature, at
+the heart of every censor lies a dangerous sort of hubris, the very which
+should make them ineligible for the task:
 
-Similarly, far from being stupid and self-evidently nasty, fascism is a
-powerful, persuasive ideology that continues to lure bright minds to this day,
-and, if unchecked, spreads like wildfire under the right conditions --
-precisely *because* it is so effective.
+> The opinion which it is attempted to suppress by authority may
+> possibly be true. Those who desire to suppress it, of course deny its truth;
+> but they are not infallible. **They have no authority to decide the question
+> for all mankind, and exclude every other person from the means of judging.**
+> To refuse a hearing to an opinion, because they are sure that it is false, is
+> to assume that their certainty is the same thing as absolute certainty. **All
+> silencing of discussion is an assumption of infallibility.**
 
-To teach our students otherwise is to rob them of the intellectual tooling they
-need to defend their own liberties. It's embarrassing to watch YouTube videos
-of Ben Shapiro and Milo Yiannopoulos talk circles around stammering, babbling
-university students who can scarcely string together pertinent questions, let
-alone a cogent defense of their own position -- having clearly never been
-properly exposed to an opposite view.
+## Q: But surely, sometimes the public passion is so strong, that the truth cannot be denied?
 
-Compare today's dogmatic, rhetoric-laden performances from progressive
-moralists with [this old clip](https://youtu.be/9DvmLMUfGss) of Noam
-Chomsky<sup>1</sup> deftly standing his ground against every rhetorical trick
-and "gotcha" William Buckley throws at him.  Aren't we all better off that he
-didn't sit in his chair for the duration of the program chanting "This is what
-white supremacy looks like"?
+> It is a piece of idle sentimentality that truth, merely as truth, has any
+> inherent power denied to error, of prevailing against the dungeon and the
+> stake. Men are not more zealous for truth than they often are for error, and
+> **a sufficient application of legal or even of social penalties will
+> generally succeed in stopping the propagation of either.**
+>
+> The real advantage which truth has, consists in this, that when an opinion is
+> true, it may be extinguished once, twice, or many times, but in the course of
+> ages there will generally be found persons to rediscover it, until some one
+> of its reappearances falls on a time when from favourable circumstances it
+> escapes persecution until it has made such head as to withstand all
+> subsequent attempts to suppress it.
 
-So vital is exposure to dissent to our understanding, that Mill goes one step
-further, and recommends that whenever a dissenting opinion is not available, we
-should invent it:
 
-> So essential is this discipline to a real understanding of moral and human
-> subjects, that if opponents of all important truths do not exist, it is
-> indispensable to imagine them, and supply them with the strongest arguments
-> which the most skilful devil's advocate can conjure up.
 
-How many young socialists and left-wingers are familiar with Friedman? How many
-could successfully refute his arguments, how many could survive a debate
-against him? How can they otherwise be convinced of their belief if they don't
-understand the alternative, how could they expect to successfully recruit an
-outsider? (Marx himself was well read on Adam Smith and the classical
-economists).
 
-If you're a progressive, spend a week immersing yourself in Fox News and
-conservative propaganda (I recently did this... it was awful). We all hold in
-our heads a caricature of the "other side". This caricature is often incorrect.
-If we wish to be intellectually honest, we must do away with this caricature.
-Even at the extremes of ideology -- I have debated and questioned a handful of
-neo-Nazis and white supremacists in my youth, and came to understand difficult
-facets of human nature that no book or newspaper could have taught me.
 
-I've always been bored by people who agree with me; I've always sought the
-conversation of conservatives, religious right-wingers, and communists. -- This
-leaves me in a sort of no-man's land at times. Often people with whom I agree
-fall under the impression that I'm "defending" the "other side" when I express
-my frustration that they misrepresent the opposing argument, because they've
-never taken the time to actually understand the other side's worldview; they
-are engaged in a pointless exercise: *they are arguing with ghosts*.
 
----
 
-<small>
-  1. Chomsky's commitment to this principle is best exemplified by [his defense
-     of a Holocaust denier](https://en.wikipedia.org/wiki/Faurisson\_affair) in
-     the late 70's.
-</small>
+
+
+
+
+
+
 
 ## Q: But what if I'm wrong?
 
@@ -246,36 +327,7 @@ And most importantly, allow yourself (and others) to be wrong:
 > penalties, its own ideas and practices as rules of conduct on those who
 > dissent from them;**
 
-## By What Authority?
 
-> First: the opinion which it is attempted to suppress by authority may
-> possibly be true. Those who desire to suppress it, of course deny its truth;
-> but they are not infallible. **They have no authority to decide the question
-> for all mankind, and exclude every other person from the means of judging.**
-> To refuse a hearing to an opinion, because they are sure that it is false, is
-> to assume that their certainty is the same thing as absolute certainty. **All
-> silencing of discussion is an assumption of infallibility.**
-
----
-
-> While every one well knows himself to be fallible, few think it necessary to
-> take any precautions against their own fallibility, or admit the supposition
-> that any opinion, of which they feel very certain, may be one of the examples
-> of the error to which they acknowledge themselves to be liable.
-
-## Truth Does Not Prevail
-
->  It is a piece of idle sentimentality that truth, merely as truth, has any
->  inherent power denied to error, of prevailing against the dungeon and the
->  stake. Men are not more zealous for truth than they often are for error, and
->  **a sufficient application of legal or even of social penalties will
->  generally succeed in stopping the propagation of either.** The real
->  advantage which truth has, consists in this, that when an opinion is true,
->  it may be extinguished once, twice, or many times, but in the course of ages
->  there will generally be found persons to rediscover it, until some one of
->  its reappearances falls on a time when from favourable circumstances it
->  escapes persecution until it has made such head as to withstand all
->  subsequent attempts to suppress it.
 
 ## Social Stigma More Powerful Than Legal Censorship
 
@@ -311,30 +363,6 @@ And most importantly, allow yourself (and others) to be wrong:
 > greatest harm done is to those who are not heretics, and whose whole mental
 > development is cramped, and their reason cowed, by the fear of heresy.
 
-## Being Right For The Wrong Reasons
-
-
----
-
-> How often, when smarting under some unforeseen misfortune or disappointment,
-> does a person call to mind some proverb or common saying, familiar to him all
-> his life, the meaning of which, if he had ever before felt it as he does now,
-> would have saved him from the calamity. There are indeed reasons for this,
-> other than the absence of discussion: there are many truths of which the full
-> meaning cannot be realised, until personal experience has brought it home.
-> But much more of the meaning even of these would have been understood, and
-> what was understood would have been far more deeply impressed on the mind, if
-> the man had been accustomed to hear it argued pro and con by people who did
-> understand it. **The fatal tendency of mankind to leave off thinking about a
-> thing when it is no longer doubtful, is the cause of half their errors.** A
-> contemporary author<sup>1</sup> has well spoken of "the deep slumber of a
-> decided opinion."
-
----
-
-<small>
-    1. The author in question is Arthur Helps
-</small>
 
 
 ## Resurgence Of Religion
@@ -373,13 +401,6 @@ And most importantly, allow yourself (and others) to be wrong:
 > reason and sanity.
 
 
-## Dissent Is Always Worth Listening To
-
-> When there are persons to be found, who form an exception to the apparent
-> unanimity of the world on any subject, even if the world is in the right, it
-> is always probable that dissentients have something worth hearing to say for
-> themselves, and that truth would lose something by their silence.
-
 
 ## Don't Make A Habit Of Stigmatizing Dissent
 
@@ -400,19 +421,6 @@ And most importantly, allow yourself (and others) to be wrong:
 > interest, therefore, of truth and justice, it is far more important to
 > restrain this employment of vituperative language than the other;
 
-## Hate Speech And Incitement
-
-![](/img/fs_2.png)
-
-> This last proviso is of course indispensable. No one pretends that actions
-> should be as free as opinions. On the contrary, even opinions lose their
-> immunity, when the circumstances in which they are expressed are such as to
-> constitute their expression a positive instigation to some mischievous act.
-> An opinion that corn-dealers are starvers of the poor, or that private
-> property is robbery, ought to be unmolested when simply circulated through
-> the press, but may justly incur punishment when delivered orally to an
-> excited mob assembled before the house of a corn-dealer, or when handed about
-> among the same mob in the form of a placard.
 
 ## The Stifling Of Individuality
 
