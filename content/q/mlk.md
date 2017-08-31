@@ -11,19 +11,6 @@ rtags = ["mlk", "nonviolence", "social", "liberty", "activism"]
 > More and more I feel that the people of ill will have used time much more
 > effectively than have the people of good will.
 
-This observation rings true to this day, and on almost every social domain.
-It's truly disheartening, the effectiveness with which the far right and
-neo-liberal centre have managed to run their political operations and unify
-their base, and with laser-focus dismantle social and environmental safety
-nets, metastasize state militarism and police impunity, and pervert our
-democracies in such a way that they seem now practically engineered to benefit
-the ultra-wealthy.
-
-When it comes to tearing down decades of hard-earned social progress, the far
-right is consistently able to put their differences aside and get shit done,
-while social progressives can hardly manage to organize for a single cause
-without devolving into a mess of infighting.
-
 ## The Purpose Of Nonviolent Direct Action
 
 > I must confess that I am not afraid of the word "tension." I have earnestly

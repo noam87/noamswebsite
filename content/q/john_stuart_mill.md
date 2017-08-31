@@ -9,57 +9,27 @@ rtags = ["jsmill", "liberalism", "social", "liberty", "freespeech",
 
 **THIS IS A POOPOO DRAFT**
 
-Excerpts and notes from Mill's *On Liberty*. Some are in the form of a
-question-and-answer dialogue to address common misconceptions about free speech.
-
-In part my goal is to help dispel the idea that free speech advocates are all
-afflicted by a sort of romantic naivete, foolishly holding on to sentimental
-notions of man's "natural right" to speak, or are blind to the paradoxical
-threats that arise from "providing aggressors with a platform to spread hate" --
-sentiments popularized for example in cartoons like this:
-
-![](/img/fs_1.jpg)
-
-Quite opposite: far from naive, at the root of the utilitarian
-conception of free speech lies a cynical view of human nature and the limits of
-man's capacity for making sound moral judgement.
-
-(*On Liberty* in its entirety is available here for free here:
-https://www.gutenberg.org/files/34901/34901-h/34901-h.htm)
-
-Before we explore the intricacies of his essay, let's address the most basic
-question:
+*On Liberty* in its entirety is available here for free here:
+https://www.gutenberg.org/files/34901/34901-h/34901-h.htm
 
 ## Q: What are the main reasons for protecting free speech?
 
-JS Mill presents the reader with four principal arguments.  Note that at no
-point does he moralize on man's natural right to free expression, romantic
-notions of "Truth", or anything of the sort: Mill is solely concerned about the
-far-reaching societal consequences of impeding dissent. The four arguments are
-as follows:
+JS Mill presents the reader with four principal arguments. It should be of note
+that he does not appeal to man's natural right to free expression, or romantic
+notions of "Truth": Mill is solely concerned about the far-reaching societal
+consequences of impeding dissent. The four arguments are as follows:
 
 > **First,** if any opinion is compelled to silence, that opinion may, for aught we
 > can certainly know, be true. To deny this is to assume our own infallibility.
-
-This is pretty straightforward: we are all flawed; by silencing
-those we believe to be in error we may inadvertently silence someone who holds
-a valid opinion.
-
+>
 > **Secondly,** though the silenced opinion be an error, it may, and very commonly
 > does, contain a portion of truth; and since the general or prevailing opinion
 > on any subject is rarely or never the whole truth, it is only by the collision
 > of adverse opinions that the remainder of the truth has any chance of being
 > supplied.
 
-Here we enter slightly more subtle territory: even if one is mostly right, it
-is rare that one is *wholly* right; and similarly, there is often a grain of
-truth to be found even in the opinion of those who are mostly wrong. Mill
-argues that it's only by allowing the two viewpoints to clash that we can
-separate the wheat from the chaff.
-
 His two final arguments are often overlooked in discussions of free speech,
-though they are vital -- their implications are also rather counterintuitive,
-so they must be considered carefully:
+though they are vital -- and somewhat counterintuitive:
 
 > **Thirdly,** even if the received opinion be not only true, but the whole truth;
 > unless it is suffered to be, and actually is, vigorously and earnestly
@@ -71,16 +41,12 @@ so they must be considered carefully:
 > inefficacious for good, but cumbering the ground, and preventing the growth of
 > any real and heartfelt conviction, from reason or personal experience.
 
-That is, dissent must be encouraged not only to correct popular opinions that
-are wrong, but to preserve popular opinions that are right; because when
-they become mere dogma, they run the risk of being lost or perverted.
+I think that failure to understand arguments 3 and 4 are, I believe, at the
+core of much polemic surrounding free speech.
 
-Failure to understand arguments 3 and 4 are, I believe, at the core of modern
-polemic surrounding free speech and the "no platform" movement. Thus we end up
-with absurd situations in which, for example, children's authors who write
-cautionary tales of racism [are instead accused of promoting
-it](http://www.vulture.com/2017/08/the-toxic-drama-of-ya-twitter.html).
-
+> Truth gains more even by the errors of one who, with due study and
+> preparation, thinks for himself, than by the true opinions of those who only
+> hold them because they do not suffer themselves to think.
 
 ## On Dissent
 
@@ -91,11 +57,6 @@ it](http://www.vulture.com/2017/08/the-toxic-drama-of-ya-twitter.html).
 
 ## Q: One thing is to disagree. But why should I listen to people whose opinions I find vile?
 
-Don't fall into the trap of believing that doing so puts the other at an
-advantage, or that it is a means of legitimizing an evil opinion -- in fact it's
-in depriving ourselves of their opinion that we might be weakening our own
-position. When we let the other speak, even in cases of opinions we
-personally find abhorrent, it's not for the other's benefit, but for our own.
 Mill warns multiple times of the person who has "never thrown themselves into
 the mental position of those who think differently from them, and considered
 what such persons may have to say":
@@ -126,30 +87,10 @@ But his next observation is essential:
 > really possess himself of the portion of truth which meets and removes that
 > difficulty.**
 
-This passage serves to highlight a major failing from our educators and
-political writers, who so liberally bastardize unfavorable views
-and weaken their arguments to make them seem less persuasive, leaving the
-audience with the false impression that good morality is self-evident.
-
-Good morals are far from self-evident. It is not self-evident that slavery is
-wrong; it is not self-evident that anyone has a right to exist; nor is it
-self-evident that we are all entitled to equal treatment under the law. If it
-were, it wouldn't be so damn hard for societies to progress! -- Similarly, far
-from being stupid and self-evidently nasty, fascism is a powerful, persuasive
-ideology that continues to lure bright minds to this day, and under the right
-conditions, if unchecked, spreads like wildfire -- precisely *because* it is so
-effective.
-
-To teach students otherwise is to rob them of the intellectual tools they
-need to defend their own liberties. It's embarrassing to watch YouTube videos
-of Ben Shapiro and Milo Yiannopoulos talking circles around stammering, babbling
-university students who can scarcely string together pertinent questions, let
-alone a cogent defense of their own position -- having clearly never been
-properly exposed to an opposite view.
-
-So vital is exposure to dissent to our understanding, that Mill goes one step
-further, and recommends that whenever a dissenting opinion is not available, we
-should invent it:
+This passage highlights a major failing from many educators and
+political writers, who liberally bastardize unfavorable views and weaken their
+arguments to make them seem less persuasive, leaving the audience with the
+false impression that good morality is self-evident.
 
 > So essential is this discipline to a real understanding of moral and human
 > subjects, that if opponents of all important truths do not exist, it is
@@ -182,7 +123,7 @@ far from protecting them we rob them of their urgency and weaken them.
     1. The author in question is Arthur Helps.
 </small>
 
-## Q: Isn't it naive to think that you can change a bigot's mind by debating them?
+## Q: Isn't it naive to think that you can change the mind of someone who is set in their way by debating them?
 
 > I acknowledge that the tendency of all opinions to become sectarian is not
 > cured by the freest discussion, but is often heightened and exacerbated
@@ -192,35 +133,9 @@ far from protecting them we rob them of their urgency and weaken them.
 > and more disinterested bystander, that this collision of opinions works its
 > salutary effect.**
 
-When debating a racist, whether in public life or in an academic setting, your
-goal is not to convince the racist. Instead keep in mind that every debate has
-an audience; this audience will encompass a wide spectrum of persuasions and
-experiences. Being exposed to a well-presented counterargument could be the
-catalyst that sets someone to question their beliefs.
+## Q: But there are people who wish to cause real harm.
 
-Back in 2010 I went down to the US for Jon Stewart's [Rally To Restore
-Sanity](https://en.wikipedia.org/wiki/Rally\_to\_Restore\_Sanity\_and/or\_Fear)
-and invited someone I knew down there to come with me. They're not a
-particularly political person, but I thought it would be a fun experience for
-them. The speeches were the usual sort of tame liberal banter I'd think
-nothing much of, growing up with two activist parents. Anyway, halfway through
-the monologue I remember my friend turned to me, wide eyed, and said "Wow!
-I'd never thought of it that way! -- **I've never heard people say things like
-that!**"
-
-Wherever we go we are ambassadors of our moral convictions -- our actions, and
-more importantly how they are perceived, may be the only point of reference for
-an outsider -- someone who's never been exposed to our point of view,
-*because they never had a reason to*. As viscerally satisfying as it is to tar
-and feather opponents and kick them out of town, we must always be wary of
-setting up ideological ghettos where hate and resentment can only fester and
-grow.
-
-## Q: But there are toxic people who wish to cause real harm!
-
-![](/img/fs_2.png)
-
-Mill presents us with the following hypothetical example:
+![](/img/fs_1.png)
 
 > This last proviso is of course indispensable. No one pretends that actions
 > should be as free as opinions. On the contrary, **even opinions lose their
@@ -234,20 +149,12 @@ Mill presents us with the following hypothetical example:
 
 ## Q: Aren't there cases where an opinion is obviously wrong?
 
-Obvious to whom?
-
 > While every one well knows himself to be fallible, few think it necessary to
 > take any precautions against their own fallibility, or admit the supposition
 > that any opinion, of which they feel very certain, may be one of the examples
 > of the error to which they acknowledge themselves to be liable.
 
-Whom would you trust with the authority of deciding what should and should not
-be valid opinion? Whom would you let decide which established opinions should
-and should not be questioned?
-
-What we are being pointed to here is another moral paradox: by its very nature, at
-the heart of every censor lies a dangerous sort of hubris, the very which
-should make them ineligible for the task:
+---
 
 > The opinion which it is attempted to suppress by authority may
 > possibly be true. Those who desire to suppress it, of course deny its truth;
@@ -272,34 +179,21 @@ should make them ineligible for the task:
 > escapes persecution until it has made such head as to withstand all
 > subsequent attempts to suppress it.
 
+## Q: Freedom of speech is not freedom from consequences. The laws already permit all sorts of vile speech; does that mean we have to tolerate it?
 
+Mill argues that laws are weak compared to social values. Therefore the people
+of a free society must themselves do the work to uphold free speech as a social
+value, not be merely content with laws that protect them only superficially:
 
+> [compared to laws] it is [social stigma] which is really effective, and so effective is it that the
+> profession of opinions which are under the ban of society is much less common
+> in England, than is, in many other countries, the avowal of those which incur
+> risk of judicial punishment. In respect to all persons but those whose
+> pecuniary circumstances make them independent of the good will of other
+> people, **opinion, on this subject, is as efficacious as law;** men might as well
+> be imprisoned, as excluded from the means of earning their bread.
 
-
-
-
-
-
-
-
-
-
-
-## Q: But what if I'm wrong?
-
-And most importantly, allow yourself (and others) to be wrong:
-
-> Truth gains more even by the errors of one who, with due study and
-> preparation, thinks for himself, than by the true opinions of those who only
-> hold them because they do not suffer themselves to think.
-
-## Political Theory Vs The Real World
-
-> But, in political and philosophical theories, as well as in persons, success
-> discloses faults and infirmities which failure might have concealed from
-> observation.
-
-## Liberty As Social Value, Not Merely Law
+---
 
 > Society can and does execute its own mandates: and if it issues wrong
 > mandates instead of right, or any mandates at all in things with which it
@@ -312,18 +206,6 @@ And most importantly, allow yourself (and others) to be wrong:
 > against the tendency of society to impose, by other means than civil
 > penalties, its own ideas and practices as rules of conduct on those who
 > dissent from them;**
-
-
-
-## Q: Freedom of speech is not freedom from consequences. The laws already permit all sorts of vile speech; does that mean we have to tolerate it?
-
-> It is that stigma which is really effective, and so effective is it that the
-> profession of opinions which are under the ban of society is much less common
-> in England, than is, in many other countries, the avowal of those which incur
-> risk of judicial punishment. In respect to all persons but those whose
-> pecuniary circumstances make them independent of the good will of other
-> people, opinion, on this subject, is as efficacious as law; men might as well
-> be imprisoned, as excluded from the means of earning their bread.
 
 ---
 
@@ -344,11 +226,29 @@ And most importantly, allow yourself (and others) to be wrong:
 
 ---
 
-> But it is not the minds of heretics that are deteriorated most, by the ban
-> placed on all inquiry which does not end in the orthodox conclusions. The
-> greatest harm done is to those who are not heretics, and whose whole mental
-> development is cramped, and their reason cowed, by the fear of heresy.
+> The worst offence of this kind which can be committed by a polemic, is to
+> stigmatise those who hold the contrary opinion as bad and immoral men.
 
+---
+
+> But it is not the minds of heretics that are deteriorated most, by the ban
+> placed on all inquiry which does not end in the orthodox conclusions. **The
+> greatest harm done is to those who are not heretics, and whose whole mental
+> development is cramped, and their reason cowed, by the fear of heresy.**
+
+
+
+
+
+
+
+
+
+## Political Theory Vs The Real World
+
+> But,in political and philosophical theories, as well as in persons, success
+> discloses faults and infirmities which failure might have concealed from
+> observation.
 
 
 ## Resurgence Of Religion
@@ -388,26 +288,6 @@ And most importantly, allow yourself (and others) to be wrong:
 
 
 
-## Don't Make A Habit Of Stigmatizing Dissent
-
-> The worst offence of this kind which can be committed by a polemic, is to
-> stigmatise those who hold the contrary opinion as bad and immoral men. To
-> calumny of this sort, those who hold any unpopular opinion are peculiarly
-> exposed, because they are in general few and uninfluential, and nobody but
-> themselves feel much interest in seeing justice done them; but this weapon
-> is, from the nature of the case, denied to those who attack a prevailing
-> opinion: they can neither use it with safety to themselves, nor, if they
-> could, would it do anything but recoil on their own cause. In general,
-> opinions contrary to those commonly received can only obtain a hearing by
-> studied moderation of language, and the most cautious avoidance of
-> unnecessary offence, from which they hardly ever deviate even in a slight
-> degree without losing ground: while unmeasured vituperation employed on the
-> side of the prevailing opinion, really does deter people from professing
-> contrary opinions, and from listening to those who profess them. For the
-> interest, therefore, of truth and justice, it is far more important to
-> restrain this employment of vituperative language than the other;
-
-
 ## The Stifling Of Individuality
 
 > But the evil is, that individual spontaneity is hardly recognised by the
@@ -416,10 +296,10 @@ And most importantly, allow yourself (and others) to be wrong:
 > mankind as they now are (for it is they who make them what they are), cannot
 > comprehend why those ways should not be good enough for everybody.
 
-> What is more, spontaneity forms no part of the ideal of the majority of moral
+> What is more, **spontaneity forms no part of the ideal of the majority of moral
 > and social reformers, but is rather looked on with jealousy, as a troublesome
 > and perhaps rebellious obstruction to the general acceptance of what these
-> reformers, in their own judgment, think would be best for mankind.
+> reformers, in their own judgment, think would be best for mankind.**
 
 ## Progress Through Experimentation
 
