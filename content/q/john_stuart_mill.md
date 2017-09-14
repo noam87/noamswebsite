@@ -258,7 +258,7 @@ value, not be merely content with laws that protect them only superficially:
 > it needs but little to provoke them into actively persecuting those whom they
 > have never ceased to think proper objects of persecution.
 
-## Incomplete Truths
+## Incomplete Truths And Social Progress
 
 > But there is a commoner case than either of these; when the conflicting
 > doctrines, instead of being one true and the other false, share the truth
