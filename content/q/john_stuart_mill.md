@@ -7,12 +7,10 @@ rtags = ["jsmill", "liberalism", "social", "liberty", "freespeech",
          "nonviolence"]
 +++
 
-**THIS IS A POOPOO DRAFT**
-
 *On Liberty* in its entirety is available here for free here:
 https://www.gutenberg.org/files/34901/34901-h/34901-h.htm
 
-## Q: What are the main reasons for protecting free speech?
+## Main Reasons For Protecting Free Speech
 
 JS Mill presents the reader with four principal arguments. It should be of note
 that he does not appeal to man's natural right to free expression, or romantic
@@ -55,7 +53,7 @@ core of much polemic surrounding free speech.
 > is always probable that dissentients have something worth hearing to say for
 > themselves, and that truth would lose something by their silence.
 
-## Q: One thing is to disagree. But why should I listen to people whose opinions I find vile?
+## Why Protect and Listen to Objectionable Speech
 
 Mill warns multiple times of the person who has "never thrown themselves into
 the mental position of those who think differently from them, and considered
@@ -97,7 +95,7 @@ false impression that good morality is self-evident.
 > indispensable to imagine them, and supply them with the strongest arguments
 > which the most skilful devil's advocate can conjure up.
 
-## Q: Some things should not be up for debate. Do we really need to question moral truths that have long been settled?
+## Should we question moral truths that have long been settled, or should some things not be up for debate?
 
 > How often, when smarting under some unforeseen misfortune or disappointment,
 > does a person call to mind some proverb or common saying, familiar to him all
@@ -123,7 +121,7 @@ far from protecting them we rob them of their urgency and weaken them.
     1. The author in question is Arthur Helps.
 </small>
 
-## Q: Isn't it naive to think that you can change the mind of someone who is set in their way by debating them?
+## Isn't it naive to think that you can change the mind of someone who is set in their way by debating them?
 
 > I acknowledge that the tendency of all opinions to become sectarian is not
 > cured by the freest discussion, but is often heightened and exacerbated
@@ -133,7 +131,7 @@ far from protecting them we rob them of their urgency and weaken them.
 > and more disinterested bystander, that this collision of opinions works its
 > salutary effect.**
 
-## Q: But there are people who wish to cause real harm.
+## Speech vs Hate Speech
 
 ![](/img/fs_1.png)
 
@@ -147,7 +145,7 @@ far from protecting them we rob them of their urgency and weaken them.
 > excited mob assembled before the house of a corn-dealer, or when handed about
 > among the same mob in the form of a placard.
 
-## Q: Aren't there cases where an opinion is obviously wrong?
+## Silencing Opinions That Are Objectively Wrong
 
 > While every one well knows himself to be fallible, few think it necessary to
 > take any precautions against their own fallibility, or admit the supposition
@@ -164,7 +162,7 @@ far from protecting them we rob them of their urgency and weaken them.
 > to assume that their certainty is the same thing as absolute certainty. **All
 > silencing of discussion is an assumption of infallibility.**
 
-## Q: But surely, sometimes the public passion is so strong, that the truth cannot be denied?
+---
 
 > It is a piece of idle sentimentality that truth, merely as truth, has any
 > inherent power denied to error, of prevailing against the dungeon and the
@@ -179,7 +177,7 @@ far from protecting them we rob them of their urgency and weaken them.
 > escapes persecution until it has made such head as to withstand all
 > subsequent attempts to suppress it.
 
-## Q: Freedom of speech is not freedom from consequences. The laws already permit all sorts of vile speech; does that mean we have to tolerate it?
+## Freedom of speech is not freedom from consequences. The laws already permit offensive speech; does that mean we have to tolerate it?
 
 Mill argues that laws are weak compared to social values. Therefore the people
 of a free society must themselves do the work to uphold free speech as a social
