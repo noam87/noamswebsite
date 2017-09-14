@@ -118,7 +118,7 @@ far from protecting them we rob them of their urgency and weaken them.
 ---
 
 <small>
-    1. The author in question is Arthur Helps.
+    1. The author in question is Arthur Helps, I think -- whose writing is not all that interesting.
 </small>
 
 ## Isn't it naive to think that you can change the mind of someone who is set in their way by debating them?
