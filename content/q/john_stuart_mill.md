@@ -244,7 +244,7 @@ value, not be merely content with laws that protect them only superficially:
 
 ## Political Theory Vs The Real World
 
-> But,in political and philosophical theories, as well as in persons, success
+> In political and philosophical theories, as well as in persons, success
 > discloses faults and infirmities which failure might have concealed from
 > observation.
 
