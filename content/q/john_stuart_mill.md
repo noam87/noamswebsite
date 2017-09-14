@@ -299,6 +299,8 @@ value, not be merely content with laws that protect them only superficially:
 > that in things which do not primarily concern others, individuality should
 > assert itself.
 
+I love the phrase and concept of "Experiments of living".
+
 
 ## Resurgence Of Religion
 
