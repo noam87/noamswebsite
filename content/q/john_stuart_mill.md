@@ -242,22 +242,6 @@ value, not be merely content with laws that protect them only superficially:
 
 
 
-## Political Theory Vs The Real World
-
-> In political and philosophical theories, as well as in persons, success
-> discloses faults and infirmities which failure might have concealed from
-> observation.
-
-
-## Resurgence Of Religion
-
-> What is boasted of at the present time as the revival of religion, is always,
-> in narrow and uncultivated minds, at least as much the revival of bigotry;
-> and where there is the strong permanent leaven of intolerance in the feelings
-> of a people, which at all times abides in the middle classes of this country,
-> it needs but little to provoke them into actively persecuting those whom they
-> have never ceased to think proper objects of persecution.
-
 ## Incomplete Truths And Social Progress
 
 > But there is a commoner case than either of these; when the conflicting
@@ -286,7 +270,7 @@ value, not be merely content with laws that protect them only superficially:
 
 
 
-## The Stifling Of Individuality
+## The Stifling Of Individuality, Even By Progressives
 
 > But the evil is, that individual spontaneity is hardly recognised by the
 > common modes of thinking, as having any intrinsic worth, or deserving any
@@ -299,6 +283,12 @@ value, not be merely content with laws that protect them only superficially:
 > and perhaps rebellious obstruction to the general acceptance of what these
 > reformers, in their own judgment, think would be best for mankind.**
 
+## Political Theory Vs The Real World
+
+> In political and philosophical theories, as well as in persons, success
+> discloses faults and infirmities which failure might have concealed from
+> observation.
+
 ## Progress Through Experimentation
 
 > As it is useful that while mankind are imperfect there should be different
@@ -308,6 +298,16 @@ value, not be merely content with laws that protect them only superficially:
 > practically, when any one thinks fit to try them. It is desirable, in short,
 > that in things which do not primarily concern others, individuality should
 > assert itself.
+
+
+## Resurgence Of Religion
+
+> What is boasted of at the present time as the revival of religion, is always,
+> in narrow and uncultivated minds, at least as much the revival of bigotry;
+> and where there is the strong permanent leaven of intolerance in the feelings
+> of a people, which at all times abides in the middle classes of this country,
+> it needs but little to provoke them into actively persecuting those whom they
+> have never ceased to think proper objects of persecution.
 
 ## Mediocrity Always Wins
 
