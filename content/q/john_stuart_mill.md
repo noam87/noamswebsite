@@ -39,7 +39,7 @@ though they are vital -- and somewhat counterintuitive:
 > inefficacious for good, but cumbering the ground, and preventing the growth of
 > any real and heartfelt conviction, from reason or personal experience.
 
-I think that failure to understand arguments 3 and 4 are, I believe, at the
+Failure to understand arguments 3 and 4 are, I believe, at the
 core of much polemic surrounding free speech.
 
 > Truth gains more even by the errors of one who, with due study and
