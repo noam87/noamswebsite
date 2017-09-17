@@ -133,7 +133,7 @@ far from protecting them we rob them of their urgency and weaken them.
 
 ## Speech vs Hate Speech
 
-![](/img/fs_1.png)
+![](/img/fs_1.jpg)
 
 > This last proviso is of course indispensable. No one pretends that actions
 > should be as free as opinions. On the contrary, **even opinions lose their
