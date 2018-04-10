@@ -3,7 +3,7 @@ date = "2015-12-08T17:45:08-05:00"
 title = "Sorting By Relative Popularity"
 draft = false
 wikis = ["datascience", "math"]
-tags = ["featured"]
+tags = ["featured", "julialang"]
 +++
 
 Hey, looks like I'm sorting user content again! [last time](https://noamswebsite.wordpress.com/2014/01/23/sorting-posts-by-user-engagement-level-with-elasticsearch-implementation/), I sorted user posts by "interestingness"; this time around I'll be sorting players from a set of sports teams. Once again we'll look at why sorting things based on popularity alone is a bad idea, we'll get a primer on standard deviation, and finally a bit of scripting to put it all together.

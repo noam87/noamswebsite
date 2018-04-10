@@ -1,6 +1,6 @@
 +++
 draft = false
-date = "2017-12-05"
+date = "2018-04-10"
 title = "Math/ML Resources"
 wikis = ["datascience", "math", "cs"]
 tags = ["informationTheory", "ml", "recommendations", "probability"]
@@ -15,6 +15,7 @@ tags = ["informationTheory", "ml", "recommendations", "probability"]
 | Essential Linear Algebra with Applications: A Problem-Solving Approach | BOOK | Learn linear algebra through problems. |
 | Principles And Techniques In Combinatorics | [BOOK](http://a.co/2gz4ZXD) ; [PDF](http://www.houstonisd.org/cms/lib2/TX01001591/Centricity/Domain/26781/Principles%20and%20Techniques%20in%20Combinatorics.pdf) | Beautiful book: simple, clear explanations, no filler, challenging problems |
 | Putnam And Beyond | [BOOK](https://amzn.com/0387257659) | Lots of challenging math problems from various competitions. |
+| Game Theory Evolving | [BOOK](http://a.co/67xE69d) | Good introduction to evolutionary game theory, with example problems. |
 
 ## Computer Science
 

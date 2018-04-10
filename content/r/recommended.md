@@ -1,5 +1,5 @@
 +++
-date = "2017-12-05"
+date = "2018-04-10"
 title = "Stuff I Recommend"
 draft = false
 wikis = ["random"]
@@ -7,12 +7,14 @@ rtags = ["social", "cognitive"]
 tags = ["computers", "biology", "science", "recommendations", "math"]
 +++
 
+This is a list of my 100% must-reads. For more cool/useful stuff I find,
+follow the [recommendations tag](/tags/recommendations/).
+
 ## Video Talks
 
 * <a href="https://youtu.be/kBdfcR-8hEY">Justice: What's the Right Thing To Do?</a>. Amazing Harvard lecture series on Ethics that got me into the subject.
 * <a href="https://youtu.be/NNnIGh9g6fA">Robert Sapolsky: The Biology of Human Behavior</a>. Stanford lecture series. Are you in control of your decisions and personality? Maybe not as much as you think.
 * <a href="http://everythingisaremix.info/">Everything is a Remix</a>. "There be nothing new, but that which is Hath been before..." (Free) documentary on the history of stealing ideas, and how the current reinterpretation of IP / copyright laws stand in the way of innovation, not help it.
-* Century Of The Self.
 * The Story Of Maths (4 part series).
 * [The Human Animal](https://youtu.be/7qUKiHZbVwc).
 * Untold History Of The United Stated (series on Netflix).
