@@ -27,6 +27,5 @@ x=(l,o,t)->[r==o(c,1)||r==t(c,(l-1))?1:0 for r=1:l,c=1:l];U=x(d,-,+);D=x(d,+,-)
 for i=1:100;print("\e[2J")
 s=map(c->c==2||c==3?1:0,U*s+s*U+D*s+s*D+U*s*U+U*s*D+D*s*D+D*s*U);for i=1:d
 foldl((p,x)->p*(x==1?"█":" ")," ",s[i, 1:d])|>println;end;sleep(0.5);end
-D
 ```
 
