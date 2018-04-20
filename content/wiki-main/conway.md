@@ -1,6 +1,6 @@
 +++
 date = "2018-04-10"
-title = "Conway's Game Of Life In 304 Characters Of Julia"
+title = "Conway's Game Of Life In 317 Characters Of Julia"
 draft = false
 wikis = ["computers", "cs"]
 tags = ["featured", "julialang", "conway", "automata"]
@@ -22,10 +22,10 @@ Starts with randomly generated board with parameters:
 You can also change how many generations it will go through (100 currently).
 
 ```
-d=50;p=50;s=[rand(1:p)==1?1:0 for r=1:d,c=1:d]
+d=30;p=5;s=[rand(1:p)==1?1:0 for r=1:d,c=1:d]
 x=(l,o,t)->[r==o(c,1)||r==t(c,(l-1))?1:0 for r=1:l,c=1:l];U=x(d,-,+);D=x(d,+,-)
 for i=1:100;print("\e[2J")
-s=map(c->c==2||c==3?1:0,U*s+s*U+D*s+s*D+U*s*U+U*s*D+D*s*D+D*s*U);for i=1:d
-foldl((p,x)->p*(x==1?"█":" ")," ",s[i, 1:d])|>println;end;sleep(0.5);end
+s=map((c,o)->(c==2&&o==1)||c==3?1:0,U*s+s*U+D*s+s*D+U*s*U+U*s*D+D*s*D+D*s*U,s);for i=1:d
+foldl((p,x)->p*(x==1?"█":".")," ",s[i, 1:d])|>println;end;sleep(0.5);end
 ```
 
